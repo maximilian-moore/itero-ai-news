@@ -1,1 +1,49 @@
-[]
+{
+    "news": [
+        {
+            "headline": "Top 15 AI and SaaS Technology Trends That Will Define 2026",
+            "summary": "Generative AI is expected to become mainstream by 2026, with tools like ChatGPT reaching significant user numbers and predictions that 80% of enterprises will deploy GenAI-enabled applications. Concurrently, data privacy technologies such as Confidential Computing and digital provenance are anticipated to become vital for ensuring AI compliance, particularly in sensitive fields such as finance and healthcare.",
+            "relevance_justification": "The article provides a comprehensive view of the future of AI SaaS and discusses the important role of data privacy technologies in ensuring compliance, making it highly relevant to the query.",
+            "category": ["Technology", "Business"],
+            "industry": ["Software as a Service (SaaS)", "Artificial Intelligence"],
+            "source_link": "https://www.linkedin.com/pulse/top-15-ai-saas-technology-trends-define-2026-insightfultechnologies-l76wc",
+            "relevance_score": 100
+        },
+        {
+            "headline": "AI SaaS in 2025: The Best Platforms and Solutions to Watch",
+            "summary": "The growing global trend toward remote and digital-first operations is increasing the demand for AI SaaS tools that emphasize compliance and offer streamlined integrations. This evolution is empowering even non-technical business users to develop AI-driven solutions, while edge AI SaaS is enhancing the speed and efficiency of data processing.",
+            "relevance_justification": "The article highlights emerging trends in AI SaaS that align closely with the query, particularly in the context of compliance and innovation for non-technical users.",
+            "category": ["Technology", "Business"],
+            "industry": ["Software as a Service (SaaS)", "Artificial Intelligence"],
+            "source_link": "https://www.lastingdynamics.com/blog/ai-saas/",
+            "relevance_score": 100
+        },
+        {
+            "headline": "Latest AI News, Developments, and Breakthroughs | 2026",
+            "summary": "Mozilla has launched a privacy tool to allow users to delete their data from AI training sets, enhancing data privacy in AI usage. Additionally, Snowflake's partnership with OpenAI aims to deliver more secure AI solutions by integrating advanced models into Snowflake’s Data Cloud.",
+            "relevance_justification": "This article highlights key initiatives in AI data privacy and new collaborations in AI model deployment, making it highly relevant to the query about breakthroughs and privacy laws.",
+            "category": ["Technology", "Business"],
+            "industry": ["Artificial Intelligence", "Data Privacy"],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 100
+        },
+        {
+            "headline": "25 AI marketing tools you need to get ahead in 2026",
+            "summary": "AI tools are now integral to marketing, offering capabilities from predictive analytics to personalized customer engagement, reshaping how brands interact with consumers. The adoption of AI in marketing is easing the ability for brands to process data and make decisions in real-time, paving the way for more strategic operations.",
+            "relevance_justification": "The article is relevant as it discusses AI's significant impact on digital marketing, providing insights into how AI tools are enhancing marketing strategies.",
+            "category": ["Marketing", "Technology"],
+            "industry": ["Digital Marketing", "Artificial Intelligence"],
+            "source_link": "https://www.gwi.com/blog/ai-marketing-tools",
+            "relevance_score": 99
+        },
+        {
+            "headline": "2026 AI Laws Update: Key Regulations and Practical Guidance",
+            "summary": "Future federal AI regulations are expected to cover aspects such as algorithmic discrimination and consumer protection, influencing AI developers and users. Compliance with these upcoming laws will require organizations to monitor closely and adapt practices to meet regulatory standards.",
+            "relevance_justification": "This article is pertinent to the discussion on AI data privacy laws, offering guidance on expected regulatory changes and the impact on AI application deployment.",
+            "category": ["Law", "Technology"],
+            "industry": ["Artificial Intelligence", "Legal Compliance"],
+            "source_link": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+            "relevance_score": 80
+        }
+    ]
+}
