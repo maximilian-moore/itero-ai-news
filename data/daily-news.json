@@ -1,34 +1,46 @@
 {
     "news": [
         {
-            "headline": "WPP's AI Targeting Tech (And Others) Complicates Proposed Privacy Bill",
-            "summary": "WPP has partnered with Google to integrate Earth AI models, allowing them to predict consumer demand and automate marketing at a local level. Their AI technology shifts ad targeting from passive to proactive, while safeguarding client data, but complicates proposed privacy legislation. The potential national standard for privacy laws, such as the SECURE Data Act, conflicts with current state-specific laws about personal data privacy. The privacy-first stance of WPP might be challenged by the increasing number of consumers opting out of targeted advertising. At least three states have moved to allow residents these opt-out rights as concerns over privacy grow.",
-            "relevance_justification": "The article discusses an AI targeting technology that has implications for data privacy laws, a relevant topic today due to the convergence of AI advancements and evolving privacy regulations.",
+            "headline": "Using AI To Personalize Healthcare–Without Losing Patient Trust",
+            "summary": "Forbes has published this year's AI 50 list, highlighting promising AI companies such as Anthropic, Harvey, and newcomers like Gamma and Chai Discovery. AI's impact on drug approval processes is noted, as the FDA approves around 50 drugs yearly despite increased drug candidates due to AI advancements. Liu and Zhang founded Formation Bio to improve clinical trials speed and efficiency for pharmaceutical companies. Formation Bio uses AI to enhance trials by tailoring patient experiences without compromising trust. Forbes emphasizes the importance of adopting AI responsibly while gaining measurable results.",
+            "relevance_justification": "AI is being innovatively applied in the healthcare industry, notably to improve the drug discovery process and clinical trials, an area crucial for pharmaceutical sectors' growth and regulatory compliance.",
             "category": [
-                "AI in Digital Marketing & SEO",
-                "Data Privacy & Compliance"
+                "AI in Digital Marketing & SEO"
             ],
             "industry": [
-                "Tech & SaaS",
-                "Financial Services"
+                "Healthcare & Pharma"
             ],
-            "source_link": "https://www.mediapost.com/publications/article/414536/wpps-ai-targeting-tech-and-others-complicates-p.html",
-            "relevance_score": 75,
-            "published_date": "2026-04-23"
+            "source_link": "https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/",
+            "relevance_score": 98,
+            "published_date": "2026-04-22"
         },
         {
-            "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
-            "summary": "Major AI companies like OpenAI, DeepSeek, and Anthropic have unveiled their latest AI models this week, indicating a rapid pace in AI technology development. OpenAI released GPT-5.5, DeepSeek launched V4, and Anthropic rolled out Claude Opus 4.7, offering improved reasoning and cost-effective solutions. These new models aim at enhancing AI's utility across various applications and industries. DeepSeek's models particularly excel in agentic AI tasks, showing their attempts to keep pace with the demands of both business and consumer applications. This model evolution is part of a broader AI industry trend focusing on advanced functionality and accessibility.",
-            "relevance_justification": "The release of cutting-edge AI models from major players in the industry marks a significant advancement in AI technology, with implications for the broader tech landscape.",
+            "headline": "UK firms move from AI experimentation to measurable results as the Project Economy matures",
+            "summary": "UK firms are progressing from AI experimentation to achieving tangible outcomes as the Project Economy evolves. Deltek sees embedding technology in project running and client services as a crucial step for growth in architecture, engineering, and consulting sectors. Companies realizing productivity gains by integrating AI into business processes represent a strategic advancement. Deltek's Neil Davidson notes that firms need to convert investments in digital infrastructures into productivity increases. This transition reflects a significant technological maturity and strategic AI implementation in several sectors including government contracting.",
+            "relevance_justification": "The article highlights the transition of UK firms to effective AI use, demonstrating its profound impacts on tech strategy and digital transformation, especially in project-based industries.",
             "category": [
                 "New Models & Core Tech"
             ],
             "industry": [
-                "Tech & SaaS"
+                "Manufacturing & Supply Chain"
             ],
-            "source_link": "https://www.cnet.com/tech/services-and-software/ai-arms-race-accelerates-with-new-models-from-openai-deepseek-and-anthropic/",
-            "relevance_score": 67,
-            "published_date": "2026-04-24"
+            "source_link": "https://aijourn.com/uk-firms-move-from-ai-experimentation-to-measurable-results-as-the-project-economy-matures/",
+            "relevance_score": 97,
+            "published_date": "2026-04-22"
+        },
+        {
+            "headline": "AcuityMD raises $80M to help bolster AI in the medtech industry",
+            "summary": "AcuityMD, founded in 2019, has raised $80 million to enhance AI adoption in medtech commercial teams. Led by StepStone Group, the venture funding supports AcuityAI's open beta aimed at optimizing physician interactions for sales reps. CEO Mike Monovoukas emphasizes on AI's transformation potential if embedded into decision-making workflows properly. AcuityMD plans to deploy agentic AI to support sales, leadership, and marketing teams, expanding AI's reach into medtech operations. The company seeks broader AI goals, including accelerating medtech adoption lifecycle and setting benchmarks for industry advancements.",
+            "relevance_justification": "AcuityMD's substantial funding round signifies a strengthening AI influence in healthcare technology, aiming to revolutionize operational facets through intelligent systems, thus critically impacting the Healthcare & Pharma industry.",
+            "category": [
+                "AI in B2B SaaS"
+            ],
+            "industry": [
+                "Healthcare & Pharma"
+            ],
+            "source_link": "https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams",
+            "relevance_score": 89,
+            "published_date": "2026-04-22"
         }
     ]
 }
