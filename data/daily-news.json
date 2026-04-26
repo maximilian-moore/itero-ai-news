@@ -1,46 +1,34 @@
 {
     "news": [
         {
-            "headline": "Using AI To Personalize Healthcare–Without Losing Patient Trust - Forbes",
-            "summary": "Forbes has highlighted exciting developments in AI across industries, including healthcare. A significant focus is placed on Formation Bio, a company optimizing AI for drug discovery and clinical trials. Despite a doubling in drug candidates, FDA approvals remain stagnant, motivating further AI implementation in healthcare. Formation Bio aims to utilize AI to personalize and expedite drug trials, potentially transforming the pharma industry. This ties into the wider theme of maintaining patient trust while integrating AI in healthcare processes.",
-            "relevance_justification": "The article discusses current developments in AI applications within the healthcare sector, a key industry of interest.",
+            "headline": "WPP's AI Targeting Tech (And Others) Complicates Proposed Privacy Bill",
+            "summary": "WPP has partnered with Google to integrate Earth AI models, allowing them to predict consumer demand and automate marketing at a local level. Their AI technology shifts ad targeting from passive to proactive, while safeguarding client data, but complicates proposed privacy legislation. The potential national standard for privacy laws, such as the SECURE Data Act, conflicts with current state-specific laws about personal data privacy. The privacy-first stance of WPP might be challenged by the increasing number of consumers opting out of targeted advertising. At least three states have moved to allow residents these opt-out rights as concerns over privacy grow.",
+            "relevance_justification": "The article discusses an AI targeting technology that has implications for data privacy laws, a relevant topic today due to the convergence of AI advancements and evolving privacy regulations.",
             "category": [
-                "AI in B2B SaaS"
+                "AI in Digital Marketing & SEO",
+                "Data Privacy & Compliance"
             ],
             "industry": [
-                "Healthcare & Pharma"
+                "Tech & SaaS",
+                "Financial Services"
             ],
-            "source_link": "https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/",
-            "relevance_score": 98,
-            "published_date": "2026-04-22"
+            "source_link": "https://www.mediapost.com/publications/article/414536/wpps-ai-targeting-tech-and-others-complicates-p.html",
+            "relevance_score": 75,
+            "published_date": "2026-04-23"
         },
         {
-            "headline": "AcuityMD raises $80M to help bolster AI in the medtech industry - Fierce Biotech",
-            "summary": "AcuityMD, having raised $80 million in a recent funding round, is enhancing AI applications within the medtech industry. The company's platform, AcuityAI, is currently in open beta, aiming to optimize operations for medical technology companies. CEO Mike Monovoukas emphasizes the transformational potential of AI when integrated contextually into medtech operations. AcuityMD's new funding will also support the development of autonomous systems guided by AI for various commercial applications. This initiative aligns with a broader mission to accelerate the adoption of innovative medical technology.",
-            "relevance_justification": "This news covers significant AI developments in the healthcare and medtech sector, highlighting trends and investments in the industry.",
+            "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
+            "summary": "Major AI companies like OpenAI, DeepSeek, and Anthropic have unveiled their latest AI models this week, indicating a rapid pace in AI technology development. OpenAI released GPT-5.5, DeepSeek launched V4, and Anthropic rolled out Claude Opus 4.7, offering improved reasoning and cost-effective solutions. These new models aim at enhancing AI's utility across various applications and industries. DeepSeek's models particularly excel in agentic AI tasks, showing their attempts to keep pace with the demands of both business and consumer applications. This model evolution is part of a broader AI industry trend focusing on advanced functionality and accessibility.",
+            "relevance_justification": "The release of cutting-edge AI models from major players in the industry marks a significant advancement in AI technology, with implications for the broader tech landscape.",
             "category": [
                 "New Models & Core Tech"
             ],
             "industry": [
-                "Healthcare & Pharma"
+                "Tech & SaaS"
             ],
-            "source_link": "https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams",
-            "relevance_score": 89,
-            "published_date": "2026-04-22"
-        },
-        {
-            "headline": "TAL prioritises data and AI with \"largest-ever technology deal\" - iTnews",
-            "summary": "Australian life insurer, TAL, has partnered with Microsoft to enhance its capabilities in AI and data management. This five-year deal involves consolidating TAL's data in Azure and developing a comprehensive suite of AI tools. TAL's CIO, Hinesh Chauhan, describes this as the firm's most significant technology agreement to date. With this collaboration, TAL aims to integrate advanced AI into its operations to improve service delivery and efficiency. This move reflects a growing trend among financial services to leverage AI for technological advancement and customer benefit.",
-            "relevance_justification": "The article discusses a pivotal AI and data management deal within the financial services industry, highlighting a trend of AI adoption for operational enhancement.",
-            "category": [
-                "Data Privacy & Compliance"
-            ],
-            "industry": [
-                "Financial Services"
-            ],
-            "source_link": "https://www.itnews.com.au/news/tal-prioritises-data-and-ai-with-largest-ever-technology-deal-625250",
-            "relevance_score": 61,
-            "published_date": "2026-04-21"
+            "source_link": "https://www.cnet.com/tech/services-and-software/ai-arms-race-accelerates-with-new-models-from-openai-deepseek-and-anthropic/",
+            "relevance_score": 67,
+            "published_date": "2026-04-24"
         }
     ]
 }
