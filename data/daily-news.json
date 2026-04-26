@@ -1,54 +1,34 @@
 {
     "news": [
         {
-            "headline": "Industry-Specific Applications: AI in Financial Services, Healthcare, and Manufacturing",
-            "summary": "JPMorgan Chase's AI for fraud detection now yields $1.5 billion in annual value by significantly improving fraud detection rates and reducing false positives. In manufacturing, Foxconn's AI-powered visual inspection systems have achieved above 99% accuracy, reducing defect rates and production costs.",
-            "relevance_justification": "This article highlights significant advancements in AI applications across multiple industries, directly aligning with the search query on AI in finance, healthcare, and manufacturing.",
-            "category": ["Technology", "Business"],
-            "industry": ["Finance", "Manufacturing", "Healthcare"],
-            "source_link": "https://www.linkedin.com/pulse/industry-specific-applications-ai-financial-services-healthcare-will-919re",
-            "relevance_score": 85,
-            "published_date": "2026-04-25"
+            "headline": "Mozilla Introduces One-Click Privacy Tool to Protect User Data from AI Models",
+            "summary": "Mozilla has launched a privacy tool within its Firefox browser that enables users to opt-out and delete their data from AI training datasets. This initiative is part of Mozilla's \"Trustworthy AI\" program, aimed at enhancing user control over digital footprints and combating unauthorized data scraping by tech firms.",
+            "relevance_justification": "The tool is a significant step in addressing AI data privacy concerns, aligning with current discussions surrounding data protection and individual consent in AI operations.",
+            "category": ["Technology"],
+            "industry": ["Software", "Internet"],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 90,
+            "published_date": "2026-02-02"
         },
         {
-            "headline": "The Latest AI News + Breakthroughs in Healthcare and Medical",
-            "summary": "MIT chemical engineers have created an AI model that significantly boosts the efficiency of manufacturing protein-based drugs, potentially reducing costs for biopharmaceuticals. Additionally, Eli Lilly has engaged in a $2.75 billion partnership with Insilico Medicine to develop AI-discovered drug candidates.",
-            "relevance_justification": "The article discusses groundbreaking AI applications in healthcare, particularly useful for drug manufacturing and discovery, matching the query's focus on AI advancements in the healthcare industry.",
-            "category": ["Healthcare", "Technology"],
-            "industry": ["Healthcare", "Biopharmaceuticals"],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 84,
-            "published_date": "2026-02-16"
-        },
-        {
-            "headline": "AI in Healthcare: Efficiency and Accuracy Gains in Medical Diagnosis",
-            "summary": "AI is enhancing healthcare by doubling the efficiency of radiologists and allowing general practitioners instant access to specialist-level insights. This democratization of medical expertise has notably reduced stroke treatment times and improved cancer diagnosis accuracy.",
-            "relevance_justification": "The content provides detailed examples of AI's transformative impact on healthcare processes, making it highly relevant to the query focused on AI applications in healthcare.",
-            "category": ["Healthcare", "Technology"],
-            "industry": ["Healthcare"],
-            "source_link": "https://is4.ai/blog/our-blog-1/top-8-industries-transformed-by-ai-2026-296",
+            "headline": "OpenAI Boosts Revenue Amid Growing Speculation of IPO",
+            "summary": "OpenAI has surpassed $25 billion in annualized revenue and is rumored to be preparing for a potential IPO later in 2026, highlighting the fast-growing market for sophisticated AI models. Rival Anthropic is also gaining traction with $19 billion in revenue, underscoring the intense competition in the AI sector.",
+            "relevance_justification": "The substantial revenue figures and market interest contribute to the understanding of the current economic landscape in AI development and deployment, relevant to investors and tech industry stakeholders.",
+            "category": ["Business", "Technology"],
+            "industry": ["Artificial Intelligence"],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
             "relevance_score": 82,
-            "published_date": "2026-04-25"
+            "published_date": "2026-03-05"
         },
         {
-            "headline": "Top 10 AI in Chemicals Market Companies Driving Industry Transformation",
-            "summary": "AI is increasingly integrated into chemical manufacturing processes, where top companies are using it to drive smart manufacturing and transform operations. These technological applications focus on optimizing production efficiency and enhancing precision in manufacturing.",
-            "relevance_justification": "This article's focus on AI applications in the chemicals industry directly addresses the query, which includes AI developments in the chemical sector.",
-            "category": ["Technology", "Business"],
-            "industry": ["Chemical Manufacturing"],
-            "source_link": "https://www.einpresswire.com/article/891029984/top-10-ai-in-chemicals-market-companies-driving-industry-transformation",
-            "relevance_score": 80,
-            "published_date": "2026-04-25"
-        },
-        {
-            "headline": "Summit Therapeutics Partners with Akeso in $5B+ AI-Driven Immunotherapy Deal",
-            "summary": "Summit Therapeutics has established a licensing agreement with Akeso to co-develop Ivonescimab, using AI to advance immunotherapy strategies. The collaboration emphasizes the role of AI in streamlining drug development and enhancing therapeutic efficiency.",
-            "relevance_justification": "The partnership signifies a major development in AI-driven healthcare applications, particularly in drug development, aligning well with the interests in AI's role in healthcare and pharmaceuticals.",
-            "category": ["Healthcare", "Technology"],
-            "industry": ["Healthcare", "Pharmaceuticals"],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 77,
-            "published_date": "2025-07-06"
+            "headline": "OpenAI Unveils GPT-5.4, Expanding AI Model Capabilities",
+            "summary": "OpenAI has released GPT-5.4, featuring a 1-million-token context window and the ability to autonomously perform multi-step workflows across software platforms. The model performed slightly above human levels in OSWorld-V desktop productivity benchmarks, marking a critical evolution from AI conversational tools to autonomous digital operations.",
+            "relevance_justification": "This advancement exemplifies significant developments in AI model capabilities, which are transformative for a variety of industries reliant on autonomous and predictive technologies.",
+            "category": ["Technology"],
+            "industry": ["Artificial Intelligence"],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 81,
+            "published_date": "2026-03-05"
         }
     ]
 }
