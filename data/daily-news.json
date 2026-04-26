@@ -1,54 +1,32 @@
 {
-  "news": [
-    {
-      "headline": "Industry-Specific Applications: AI in Financial Services, Healthcare, and Manufacturing",
-      "summary": "BMW has implemented AI quality inspection across its production facilities, resulting in a significant reduction of vehicle defects and manual inspection time. In finance, JPMorgan Chase has employed AI for real-time fraud detection, generating substantial annual value and improving accuracy rates.",
-      "relevance_justification": "This article highlights AI applications in both the manufacturing and finance industries, aligning with the query focus on competitor news and latest applications across multiple sectors.",
-      "category": ["AI", "Industry News"],
-      "industry": ["Manufacturing", "Finance"],
-      "source_link": "https://www.linkedin.com/pulse/industry-specific-applications-ai-financial-services-healthcare-will-919re",
-      "relevance_score": 98,
-      "published_date": "2026-04-26"
-    },
-    {
-      "headline": "The Latest AI News + Breakthroughs in Healthcare and Medical",
-      "summary": "MIT has developed an AI model that optimizes genetic sequences, promising to cut costs in biopharmaceuticals like vaccines. Additionally, Eli Lilly has formed a major collaboration with Insilico Medicine for AI drug discovery, expected to advance healthcare innovation significantly.",
-      "relevance_justification": "This article covers significant AI advancements in healthcare and the chemical industry through key partnerships and technological innovations, making it highly relevant to the stated topics.",
-      "category": ["AI", "Healthcare"],
-      "industry": ["Pharmaceutical", "Healthcare"],
-      "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-      "relevance_score": 99,
-      "published_date": "2026-04-26"
-    },
-    {
-      "headline": "9 Major Trends Shaping the Artificial Intelligence (AI) and Machine Learning Industry",
-      "summary": "Healthcare is experiencing transformative AI applications such as medical imaging analysis and drug discovery. Manufacturing sectors are benefiting from predictive maintenance and operational optimization through real-time data analysis, leading to improved efficiency.",
-      "relevance_justification": "The article provides detailed insights into AI trends across the healthcare and manufacturing industries, thus fitting the query's scope of AI applications and industry advancements.",
-      "category": ["AI", "Trends"],
-      "industry": ["Healthcare", "Manufacturing"],
-      "source_link": "https://www.plunkettresearch.com/9-major-trends-shaping-the-artificial-intelligence-ai-and-machine-learning-industry-insights-for-investors-consultants-and-marketing-professionals-in-2026/",
-      "relevance_score": 99,
-      "published_date": "2026-04-26"
-    },
-    {
-      "headline": "Top 8 Industries Being Completely Transformed by AI in 2026",
-      "summary": "AI is leading the charge in transforming multiple industries, with healthcare witnessing enhanced diagnostics and personalized treatment, while manufacturing enjoys improved quality control and productivity gains. The competitive landscape is rapidly evolving as AI adoption becomes essential.",
-      "relevance_justification": "This article addresses the transformative impact of AI on several key industries including healthcare and manufacturing, aligning closely with the query's interest in AI applications across sectors.",
-      "category": ["AI", "Industry Transformation"],
-      "industry": ["Healthcare", "Manufacturing"],
-      "source_link": "https://is4.ai/blog/our-blog-1/top-8-industries-transformed-by-ai-2026-296",
-      "relevance_score": 99,
-      "published_date": "2026-04-26"
-    },
-    {
-      "headline": "Top 10 AI in Chemicals Market Companies Driving Industry Transformation",
-      "summary": "Leading companies in the chemicals sector are leveraging AI to advance smart manufacturing and reshape market dynamics. These firms are setting the pace for AI integration, driving innovation and operational efficiency across the industry.",
-      "relevance_justification": "The focus on AI applications within the chemicals industry directly addresses the query seeking news on AI applications and competitors in this sector, making it highly relevant.",
-      "category": ["AI", "Business News"],
-      "industry": ["Chemical"],
-      "source_link": "https://www.einpresswire.com/article/891029984/top-10-ai-in-chemicals-market-companies-driving-industry-transformation",
-      "relevance_score": 99,
-      "published_date": "2026-04-26"
-    }
-  ]
+    "news": [
+        {
+            "headline": "OpenAI Surpasses $25 Billion in Revenue as IPO Speculation Grows",
+            "summary": "OpenAI has achieved impressive growth with its annualized revenue surpassing $25 billion, marking a significant milestone for the company. This achievement has sparked speculation about a potential initial public offering (IPO) which could occur as early as late 2026. As OpenAI continues to dominate the market for advanced AI models, rival Anthropic is also reporting substantial revenue figures, approaching $19 billion annually. The rapid growth within this sector highlights the heightened investor interest and fierce competition among leading AI developers. With GPT-5.4 showcasing capabilities above human baseline levels, OpenAI's innovations are poised to redefine the functionality of AI models.",
+            "relevance_justification": "The significant revenue generation by OpenAI highlights the growing importance and market demand for advanced AI models, reinforcing the company's position as a leader in the tech industry. This development is integral as it illustrates competitive dynamics within the AI sector and potential large-scale financial implications.",
+            "category": [
+                "New Models & Core Tech"
+            ],
+            "industry": [
+                "Tech & SaaS"
+            ],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 85,
+            "published_date": "2026-03-05"
+        },
+        {
+            "headline": "Mozilla Introduces Privacy Tool to Combat AI Data Scraping",
+            "summary": "Mozilla has launched a groundbreaking privacy feature within its Firefox browser aimed at enhancing user control over personal data in AI training datasets. The tool simplifies the process for users to opt-out of data collection and requests removal from AI models, addressing unauthorized data scraping by major tech companies. This initiative forms part of Mozilla's larger 'Trustworthy AI' project, which focuses on bolstering individual agency in digital spaces dominated by AI technologies. Privacy advocates have praised the tool for advancing 'data dignity' and ensuring user consent within automated environments. As generative AI becomes more prevalent, tools like this are critical for protecting personal privacy rights.",
+            "relevance_justification": "Mozilla's new privacy tool addresses critical concerns regarding data privacy in the context of AI model training, representing a significant step forward in enhancing personal control over digital information. This development is highly relevant given the ongoing debates around privacy and data ethics in AI.",
+            "category": [
+                "Data Privacy & Compliance"
+            ],
+            "industry": [
+                "Tech & SaaS"
+            ],
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 78,
+            "published_date": "2026-02-02"
+        }
+    ]
 }
