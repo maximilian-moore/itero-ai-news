@@ -1,74 +1,34 @@
 {
     "news": [
         {
-            "headline": "Google (GOOGL) Declares War on Nvidia (NVDA) with Homegrown AI Chips",
-            "summary": "Google has announced its intentions to challenge Nvidia by developing its own AI chips. These chips are part of Google's strategy to strengthen its position in the AI hardware sector, seeking independence from current suppliers. The initiative is expected to boost Google's performance and potentially disrupt the GPU market, which Nvidia currently dominates. Analysts predict that this move might lead to increased competition, possibly reducing costs for AI computing. It is yet to be seen how Nvidia will respond to Google's competitive entry into the AI chip industry.",
-            "relevance_justification": "Google's development of AI chips signifies a major shift in the tech industry landscape, impacting the manufacturing and tech sectors by potentially altering supplier dynamics and cost structures.",
-            "category": [
-                "New Models & Core Tech"
-            ],
-            "industry": [
-                "Tech & SaaS"
-            ],
-            "source_link": "https://www.tipranks.com/news/google-googl-declares-war-on-nvidia-nvda-with-homegrown-ai-chips",
-            "relevance_score": 92,
-            "published_date": "2026-04-26"
-        },
-        {
-            "headline": "TAL prioritises data and AI with \"largest-ever technology deal\"",
-            "summary": "Australian life insurer TAL has entered into its largest ever technology deal, focusing on data consolidation and AI development. The collaboration with Microsoft involves moving data to Azure and constructing a suite of AI tools intended to enhance operational efficiency. This initiative spans five years and underscores TAL's commitment to integrating advanced technologies into its business processes. TAL's CIO, Hinesh Chauhan, emphasized the transformative potential of AI in optimising insurance services. The deal is expected to set a precedent in the financial services industry for large-scale AI integration.",
-            "relevance_justification": "This deal marks a significant investment in AI technology by a major player in the financial services, influencing industry standards and showcasing the potential change in how insurers operate digitally.",
-            "category": [
-                "AI in B2B SaaS"
-            ],
-            "industry": [
-                "Financial Services"
-            ],
-            "source_link": "https://www.itnews.com.au/news/tal-prioritises-data-and-ai-with-largest-ever-technology-deal-625250",
-            "relevance_score": 88,
-            "published_date": "2026-04-22"
-        },
-        {
-            "headline": "Using AI To Personalize Healthcare–Without Losing Patient Trust",
-            "summary": "In the healthcare sector, AI is increasingly used to personalize patient care while maintaining trust. Companies like Merck are implementing AI to improve healthcare operations. This technology allows healthcare providers to offer more proactive and informed decisions to patients, paralleling consumer expectations seen in other service industries. Challenges remain in balancing technological advancement with patient privacy and trust. Initiatives are underway to ensure that AI use in healthcare respects ethical standards and enhances patient-provider interactions.",
-            "relevance_justification": "The integration of AI in healthcare represents a transformative shift, highlighting operational improvements while raising important discussions about data privacy and patient trust.",
-            "category": [
-                "Data Privacy & Compliance"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/",
-            "relevance_score": 79,
-            "published_date": "2026-04-22"
-        },
-        {
-            "headline": "Practical Remedies for Reining in Shadow AI and How to Remove Recruiting's Hidden Risks",
-            "summary": "IndustryWeek highlights the growing importance of addressing Shadow AI using practical strategies. The presence of generative and agentic AI across manufacturing processes has significant implications for talent optimization. Despite concerns about uncontrolled AI use, the industry is moving towards cross-functional AI implementations to maximize operational efficiency. Alcoa and other manufacturing giants focus on capacity enhancements to leverage AI potential. This article reviews recent industry responses and strategies to maximize AI benefits while mitigating recruiting risks in plant operations.",
-            "relevance_justification": "The discussion of Shadow AI draws attention to potential risks in the manufacturing sector, emphasizing the importance of controlled AI integration for operational success and risks related to recruitment in the industry.",
-            "category": [
-                "AI in B2B SaaS"
-            ],
-            "industry": [
-                "Manufacturing & Supply Chain"
-            ],
-            "source_link": "https://www.industryweek.com/the-economy/article/55373284/practical-remedies-for-reining-in-shadow-ai-and-how-to-remove-manufacturing-recruitings-hidden-risks-industryweeks-weekly-review",
-            "relevance_score": 77,
+            "headline": "LLM Data Compliance: Privacy and Regulatory Guide",
+            "summary": "The article covers essential aspects of ensuring data privacy and compliance while utilizing large language models. It highlights the importance of grounding technology that uses verified information sources to maintain corporate ethics. Innovative methods such as federated learning and synthetic data are encouraged to keep AI development safe and compliant. Companies are adopting automation and integrated management systems to enforce strict data compliance. These strategies minimize the risks and provide a robust framework for enterprises looking to expand their AI operations securely.",
+            "relevance_justification": "With the increasing use of AI and LLMs, compliance and data privacy issues are critical for all industries, especially in AI-driven operations.",
+            "category": ["Data Privacy & Compliance"],
+            "industry": ["Tech & SaaS", "Healthcare & Pharma", "Financial Services"],
+            "source_link": "https://keymakr.com/blog/llm-data-compliance-privacy-and-regulatory-guide/",
+            "relevance_score": 95,
             "published_date": "2026-04-24"
         },
         {
-            "headline": "Target identification and assessment in the era of AI",
-            "summary": "AI is revolutionizing target identification in the pharmaceutical industry by providing advanced capabilities for therapeutic discovery. Utilizing AI, companies can predict and evaluate drug targets effectively, speeding up the research and development processes. The technology's ability to analyze complex data sets offers promise for precision oncology and synthetic drug applications. As AI continues to mature, its role in target identification becomes increasingly crucial, paving the way for novel treatment approaches. However, ethical considerations and data privacy stand as critical factors to address in AI-driven pharmaceutical advancements.",
-            "relevance_justification": "AI's application in target identification significantly impacts drug development in the healthcare industry, highlighting both opportunities for faster innovation and challenges associated with data usage and privacy.",
-            "category": [
-                "New Models & Core Tech"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.nature.com/articles/s41573-026-01412-8",
-            "relevance_score": 73,
+            "headline": "15 best AI SEO tools & how I use them [new data]",
+            "summary": "AI-powered SEO tools are revolutionizing how digital marketing professionals approach search engine optimization. These tools aim to streamline processes such as content creation and keyword research, leveraging machine learning to enhance performance. Unlike traditional rule-based tools, AI systems can adapt and produce varied outputs, although determinism remains vital for specific applications. The article evaluates several AI SEO tools, concluding that the balance between creativity and consistency is crucial. AI has changed both the method and the outcome of efforts to improve search rankings, and these tools exemplify the new capabilities.",
+            "relevance_justification": "AI's impact on digital marketing is a significant topic as businesses increasingly rely on technology to optimize their online presence.",
+            "category": ["AI in Digital Marketing & SEO"],
+            "industry": ["Tech & SaaS"],
+            "source_link": "https://blog.hubspot.com/marketing/ai-seo",
+            "relevance_score": 88,
             "published_date": "2026-04-20"
+        },
+        {
+            "headline": "Top 6 AI visibility tools for SEO agencies: Flexible pricing, powerful features (2026)",
+            "summary": "The article reviews top AI tools available for SEO agencies, emphasizing features like SOC 2 Type II compliance. These tools provide robust capabilities for monitoring and improving the visibility of brands across multiple AI platforms. Key metrics such as client project costs, standard LLM coverage, and the presence of actionable insights are critical for agency decisions. The report particularly highlights AthenaHQ, an AI-based visibility monitoring platform, as a standout option. The focus on delivering actionable outcomes rather than just data dashboards sets these tools apart as valuable for agencies.",
+            "relevance_justification": "The development of AI tools for SEO indicates a broader trend in the digital marketing industry where automation and machine learning become integral.",
+            "category": ["AI in Digital Marketing & SEO"],
+            "industry": ["Tech & SaaS"],
+            "source_link": "https://businesscloud.co.uk/news/top-6-ai-visibility-tools-for-seo-agencies-flexible-pricing-powerful-features-2026/",
+            "relevance_score": 85,
+            "published_date": "2026-04-21"
         }
     ]
 }
