@@ -1,48 +1,46 @@
 {
     "news": [
         {
-            "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
-            "summary": "The AI landscape is bustling with activity as industry giants release new and improved models. OpenAI has introduced the GPT-5.5 model, while Anthropic unveiled the latest version of its Claude Opus AI, version 4.7. China's DeepSeek has launched a preview of its new V4 model with advancements in reasoning and agentic tasks, enabled by a Hybrid Attention Architecture. These innovations allow for longer document prompts and more efficient query handling. With cost-effective deployment options, these models are poised to drive broader adoption across various sectors.",
-            "relevance_justification": "The new AI models from OpenAI, DeepSeek, and Anthropic align with the query's interest in AI breakthroughs, demonstrating significant advancements in AI capabilities and industry impact.",
+            "headline": "Using AI To Personalize Healthcare–Without Losing Patient Trust - Forbes",
+            "summary": "Forbes has highlighted exciting developments in AI across industries, including healthcare. A significant focus is placed on Formation Bio, a company optimizing AI for drug discovery and clinical trials. Despite a doubling in drug candidates, FDA approvals remain stagnant, motivating further AI implementation in healthcare. Formation Bio aims to utilize AI to personalize and expedite drug trials, potentially transforming the pharma industry. This ties into the wider theme of maintaining patient trust while integrating AI in healthcare processes.",
+            "relevance_justification": "The article discusses current developments in AI applications within the healthcare sector, a key industry of interest.",
+            "category": [
+                "AI in B2B SaaS"
+            ],
+            "industry": [
+                "Healthcare & Pharma"
+            ],
+            "source_link": "https://www.forbes.com/sites/innovationrx/2026/04/22/using-ai-to-personalize-healthcarewithout-losing-patient-trust/",
+            "relevance_score": 98,
+            "published_date": "2026-04-22"
+        },
+        {
+            "headline": "AcuityMD raises $80M to help bolster AI in the medtech industry - Fierce Biotech",
+            "summary": "AcuityMD, having raised $80 million in a recent funding round, is enhancing AI applications within the medtech industry. The company's platform, AcuityAI, is currently in open beta, aiming to optimize operations for medical technology companies. CEO Mike Monovoukas emphasizes the transformational potential of AI when integrated contextually into medtech operations. AcuityMD's new funding will also support the development of autonomous systems guided by AI for various commercial applications. This initiative aligns with a broader mission to accelerate the adoption of innovative medical technology.",
+            "relevance_justification": "This news covers significant AI developments in the healthcare and medtech sector, highlighting trends and investments in the industry.",
             "category": [
                 "New Models & Core Tech"
             ],
             "industry": [
-                "Tech & SaaS"
+                "Healthcare & Pharma"
             ],
-            "source_link": "https://www.cnet.com/tech/services-and-software/ai-arms-race-accelerates-with-new-models-from-openai-deepseek-and-anthropic/",
-            "relevance_score": 92,
-            "published_date": "2026-04-24"
+            "source_link": "https://www.fiercebiotech.com/medtech/acuitymd-gets-80m-help-bolster-ai-medtech-industry-commercial-teams",
+            "relevance_score": 89,
+            "published_date": "2026-04-22"
         },
         {
-            "headline": "3 Key Questions to Ask Before Adopting AI Tools for SMS Marketing",
-            "summary": "Digital marketers using AI for SMS campaigns must navigate the complexities of data privacy and compliance. As AI becomes integral in crafting personalized messages, there's an increased emphasis on secure data handling and user consent. First-party data strategies have become essential to gain consumer trust amidst tightening privacy laws. This shift prioritizes transparency and purpose-specific data usage. Understanding vendor data handling practices is vital to maintain compliance and avoid regulatory missteps.",
-            "relevance_justification": "The focus on AI-driven marketing strategies and regulatory compliance in this article provides valuable insights into the intersection of AI technology and digital marketing, addressing a key aspect of the query.",
+            "headline": "TAL prioritises data and AI with \"largest-ever technology deal\" - iTnews",
+            "summary": "Australian life insurer, TAL, has partnered with Microsoft to enhance its capabilities in AI and data management. This five-year deal involves consolidating TAL's data in Azure and developing a comprehensive suite of AI tools. TAL's CIO, Hinesh Chauhan, describes this as the firm's most significant technology agreement to date. With this collaboration, TAL aims to integrate advanced AI into its operations to improve service delivery and efficiency. This move reflects a growing trend among financial services to leverage AI for technological advancement and customer benefit.",
+            "relevance_justification": "The article discusses a pivotal AI and data management deal within the financial services industry, highlighting a trend of AI adoption for operational enhancement.",
             "category": [
-                "AI in Digital Marketing & SEO",
                 "Data Privacy & Compliance"
             ],
             "industry": [
-                "Tech & SaaS"
+                "Financial Services"
             ],
-            "source_link": "https://www.retailtouchpoints.com/news/3-key-questions-to-ask-before-adopting-ai-tools-for-sms-marketing/618988/",
-            "relevance_score": 87,
-            "published_date": "2026-04-20"
-        },
-        {
-            "headline": "WPP's AI Targeting Tech and Others Complicate Proposed Privacy Bill",
-            "summary": "WPP has leveraged Google's geospatial intelligence to enhance AI-driven ad targeting, aiming for more precise and proactive marketing strategies. AI technologies are revolutionizing ad targeting by integrating real-world data, such as traffic and weather patterns, to better predict consumer behavior. However, these advancements could complicate the new SECURE Data Act proposed to streamline compliance with privacy laws. The act is intended to standardize compliance across national campaigns, yet existing state laws continue to introduce complexity. The ongoing dialogue around national privacy standards highlights the tension between technological innovation and regulatory frameworks.",
-            "relevance_justification": "This article discusses AI advancements in targeting technology within the context of digital marketing and the potential impact on data privacy laws, directly addressing the query's themes.",
-            "category": [
-                "AI in Digital Marketing & SEO",
-                "Data Privacy & Compliance"
-            ],
-            "industry": [
-                "Tech & SaaS"
-            ],
-            "source_link": "https://www.mediapost.com/publications/article/414536/wpps-ai-targeting-tech-and-others-complicate-pr.html",
-            "relevance_score": 90,
-            "published_date": "2026-04-23"
+            "source_link": "https://www.itnews.com.au/news/tal-prioritises-data-and-ai-with-largest-ever-technology-deal-625250",
+            "relevance_score": 61,
+            "published_date": "2026-04-21"
         }
     ]
 }
