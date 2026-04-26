@@ -1,64 +1,48 @@
 {
     "news": [
         {
-            "headline": "Industry-Specific Applications: AI in Financial Services, Healthcare, and Manufacturing",
-            "summary": "BMW has implemented a sophisticated AI quality inspection system across its production facilities, leading to a significant reduction in automobile defects and manual inspection times. The AIQX platform employs more than 26 cameras in its process, focusing on intricate vehicle details. JPMorgan Chase's advanced AI system for fraud detection in financial services is recognized for generating substantial value and reducing false positives. It achieves this by analyzing numerous real-time transaction features. These AI-driven efforts exemplify transformative strategies tailored to specific industries that might not scale similarly across other sectors.",
-            "relevance_justification": "The article illustrates the application of AI in enhancing quality control in manufacturing, fraud detection in financial services, and addresses varying efficacies when applied to different industries, making it relevant to multiple sectors under interest.",
+            "headline": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
+            "summary": "The AI landscape is bustling with activity as industry giants release new and improved models. OpenAI has introduced the GPT-5.5 model, while Anthropic unveiled the latest version of its Claude Opus AI, version 4.7. China's DeepSeek has launched a preview of its new V4 model with advancements in reasoning and agentic tasks, enabled by a Hybrid Attention Architecture. These innovations allow for longer document prompts and more efficient query handling. With cost-effective deployment options, these models are poised to drive broader adoption across various sectors.",
+            "relevance_justification": "The new AI models from OpenAI, DeepSeek, and Anthropic align with the query's interest in AI breakthroughs, demonstrating significant advancements in AI capabilities and industry impact.",
             "category": [
-                "AI in B2B SaaS"
+                "New Models & Core Tech"
             ],
             "industry": [
-                "Manufacturing & Supply Chain",
-                "Financial Services",
                 "Tech & SaaS"
             ],
-            "source_link": "https://www.linkedin.com/pulse/industry-specific-applications-ai-financial-services-healthcare-will-919re",
-            "relevance_score": 100,
-            "published_date": "2026-03-25"
+            "source_link": "https://www.cnet.com/tech/services-and-software/ai-arms-race-accelerates-with-new-models-from-openai-deepseek-and-anthropic/",
+            "relevance_score": 92,
+            "published_date": "2026-04-24"
         },
         {
-            "headline": "The Latest AI News + Breakthroughs in Healthcare and Medical",
-            "summary": "Recent developments in AI technology are streamlining processes in the healthcare and pharmaceutical industries. An AI model developed by MIT is optimizing genetic sequences in industrial yeast, aiming to lower the costs of biologics and vaccines. Insilico Medicine has entered a significant partnership with Eli Lilly, leveraging AI for drug discovery, potentially worth $2.75 billion. Moreover, Lilly is advancing its capabilities with LillyPod, a leading pharmacosupercomputer, to enhance drug discovery and genomic research. NVIDIA's GTC conference highlighted agentic AI's growing influence on transforming healthcare.",
-            "relevance_justification": "The multiple breakthroughs in AI applications detailed in the article are reshaping healthcare, highlighting significant industry collaborations and technological evolutions, making it highly relevant to the healthcare and pharma industry.",
+            "headline": "3 Key Questions to Ask Before Adopting AI Tools for SMS Marketing",
+            "summary": "Digital marketers using AI for SMS campaigns must navigate the complexities of data privacy and compliance. As AI becomes integral in crafting personalized messages, there's an increased emphasis on secure data handling and user consent. First-party data strategies have become essential to gain consumer trust amidst tightening privacy laws. This shift prioritizes transparency and purpose-specific data usage. Understanding vendor data handling practices is vital to maintain compliance and avoid regulatory missteps.",
+            "relevance_justification": "The focus on AI-driven marketing strategies and regulatory compliance in this article provides valuable insights into the intersection of AI technology and digital marketing, addressing a key aspect of the query.",
             "category": [
-                "New Models & Core Tech"
+                "AI in Digital Marketing & SEO",
+                "Data Privacy & Compliance"
             ],
             "industry": [
-                "Healthcare & Pharma"
+                "Tech & SaaS"
             ],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 95,
-            "published_date": "2026-04-26"
+            "source_link": "https://www.retailtouchpoints.com/news/3-key-questions-to-ask-before-adopting-ai-tools-for-sms-marketing/618988/",
+            "relevance_score": 87,
+            "published_date": "2026-04-20"
         },
         {
-            "headline": "9 Major Trends Shaping the Artificial Intelligence (AI) and Machine Learning Industry: Insights for Investors, Consultants, and Marketing Professionals in 2026",
-            "summary": "AI technology is driving significant changes in healthcare, manufacturing, and finance. In healthcare, machine learning models are optimizing medical imaging and accelerating drug discovery. Predictive maintenance and quality control in manufacturing are being enhanced by AI systems, improving operational efficiency by anticipating equipment failures. Financial services utilize AI for fraud detection and algorithmic trading to maintain competitive advantage. The rapid rise of generative AI and large language models is a key disruptive trend across industries. This technological penetration is transforming core business functions, AI-driven industrial automation, and personalizing financial services.",
-            "relevance_justification": "This article discusses the substantial impact AI has in key industries such as healthcare, manufacturing, and financial services, addressing central applications and broader industry trends, highlighting its sweeping influence, which is both cross-industry and transformative.",
+            "headline": "WPP's AI Targeting Tech and Others Complicate Proposed Privacy Bill",
+            "summary": "WPP has leveraged Google's geospatial intelligence to enhance AI-driven ad targeting, aiming for more precise and proactive marketing strategies. AI technologies are revolutionizing ad targeting by integrating real-world data, such as traffic and weather patterns, to better predict consumer behavior. However, these advancements could complicate the new SECURE Data Act proposed to streamline compliance with privacy laws. The act is intended to standardize compliance across national campaigns, yet existing state laws continue to introduce complexity. The ongoing dialogue around national privacy standards highlights the tension between technological innovation and regulatory frameworks.",
+            "relevance_justification": "This article discusses AI advancements in targeting technology within the context of digital marketing and the potential impact on data privacy laws, directly addressing the query's themes.",
             "category": [
-                "New Models & Core Tech"
+                "AI in Digital Marketing & SEO",
+                "Data Privacy & Compliance"
             ],
             "industry": [
-                "Healthcare & Pharma",
-                "Manufacturing & Supply Chain",
-                "Financial Services"
+                "Tech & SaaS"
             ],
-            "source_link": "https://www.plunkettresearch.com/9-major-trends-shaping-the-artificial-intelligence-ai-and-machine-learning-industry-insights-for-investors-consultants-and-marketing-professionals-in-2026/",
-            "relevance_score": 94,
-            "published_date": "2026-04-26"
-        },
-        {
-            "headline": "3 AI trends reshaping healthcare and life sciences in 2026",
-            "summary": "AI is steadily embedding itself into the healthcare and life sciences industries, with companies adopting these technologies to streamline operations and accelerate drug discovery processes. A primary driver for AI adoption is the need to overcome the R&D productivity crisis, as the cost per approved drug continues to soar. AI-driven platforms are projected to be responsible for over 60% of new drugs entering clinical trials. The use of specialized protein language models is enabling more precise molecule design. The industrialization of knowledge graphs further aids in integrating vast data sources, enhancing disease path identification which traditional methods miss.",
-            "relevance_justification": "This article is crucial as it sheds light on the technological innovations and industry-level transformations driven by AI within the healthcare and life sciences sectors, significant for stakeholders and policymakers in these industries.",
-            "category": [
-                "New Models & Core Tech"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.dataiku.com/stories/blog/healthcare-life-sciences-ai-trends-2026",
-            "relevance_score": 91,
-            "published_date": "2026-04-26"
+            "source_link": "https://www.mediapost.com/publications/article/414536/wpps-ai-targeting-tech-and-others-complicate-pr.html",
+            "relevance_score": 90,
+            "published_date": "2026-04-23"
         }
     ]
 }
