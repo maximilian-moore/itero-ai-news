@@ -1,44 +1,67 @@
 {
     "news": [
         {
-            "headline": "The latest AI-powered martech news and releases",
-            "summary": "AI Digital has relaunched its intelligence platform called Elevate, which employs neural networks to evaluate media performance across various channels. AutoRaptor introduced an automated voice agent for automotive dealerships using NLP to assist with customer interactions. BrightLocal launched AI Insights, leveraging machine learning for local search management. Glow B unveiled AI services for generative search optimization, assessing brand visibility in chatbot responses. Seedtag's NeuroX now places digital ads contextually without tracking personal data, adhering to rising data privacy standards.",
-            "relevance_justification": "This article provides detailed insights into new AI-powered tools and models in the martech industry, highlighting advancements in AI-driven customer interaction and search management.",
-            "category": ["AI in Digital Marketing & SEO"],
-            "industry": ["Tech & SaaS"],
-            "source_link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+            "headline": "Alithya's industry insights reveal 2026 priorities and AI trends across financial services, manufacturing, and healthcare",
+            "summary": "Alithya has published its latest industry research that identifies key trends and priorities in financial services, manufacturing, and healthcare for 2026. The study highlights an increase in AI adoption as organizations face financial pressures and operational challenges. Manufacturing leaders are focusing on AI readiness and automation strategies to enhance productivity and resilience. Healthcare executives see significant potential in technology investments to reduce labor costs and administrative burdens. Overall, the research emphasizes the centrality of AI-supported decision-making in maintaining competitiveness.",
+            "relevance_justification": "The news report provides relevant insights on how AI trends are shaping up in multiple industries such as financial services, manufacturing, and healthcare in 2026. It discusses significant themes like AI adoption, automation, and financial pressures.",
+            "category": [
+                "New Tools & Open Source",
+                "AI in B2B SaaS"
+            ],
+            "industry": [
+                "Tech & SaaS",
+                "Financial Services",
+                "Manufacturing & Supply Chain",
+                "Healthcare & Pharma"
+            ],
+            "source_link": "https://www.prnewswire.com/news-releases/alithyas-industry-insights-reveal-2026-priorities-and-ai-trends-across-financial-services-manufacturing-and-healthcare-302721493.html",
             "relevance_score": 95,
-            "published_date": "2026-04-09"
+            "published_date": "2026-03-23"
         },
         {
-            "headline": "Latest AI News, Developments, and Breakthroughs | 2026",
-            "summary": "Mozilla has introduced a Firefox tool allowing users to remove their data from AI training datasets, part of a larger initiative for 'Trustworthy AI'. OpenAI and Anthropic report significant revenue growth, highlighting the rapid expansion of the AI model market. Google launched Gemma 4, an advanced AI model offering high performance for developers seeking powerful yet accessible tools. These updates point to significant developments in AI, addressing data privacy and industry growth. The article underscores the growing importance of ethical and privacy considerations in AI deployment.",
-            "relevance_justification": "This article covers significant developments in AI models and data privacy tools, addressing both technological advancements and compliance issues which are highly relevant for understanding the current AI landscape.",
-            "category": ["New Models & Core Tech", "Data Privacy & Compliance"],
-            "industry": ["Tech & SaaS", "Financial Services"],
-            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "headline": "Industry-Specific Applications: AI in Financial Services, Healthcare, and Manufacturing",
+            "summary": "BMW has rolled out an AI quality inspection platform in its production facilities that has significantly reduced vehicle defects and inspection time. In financial services, JPMorgan Chase's AI system for fraud detection has revolutionized transaction analysis, thus enhancing fraud detection rates while minimizing false positives. The article details specific and impactful AI strategies applied uniquely across different industries. It contrasts these strategies against generalized AI solutions, providing insights into the customization needed for effective AI deployment. These examples underscore the transformative potential of industry-specific AI applications.",
+            "relevance_justification": "This news item highlights successful implementations of AI in key sectors such as manufacturing and financial services, reflecting current advancements and the tangible impact of AI on business operations.",
+            "category": [
+                "New Tools & Open Source",
+                "AI in B2B SaaS"
+            ],
+            "industry": [
+                "Manufacturing & Supply Chain",
+                "Financial Services",
+                "Tech & SaaS"
+            ],
+            "source_link": "https://www.linkedin.com/pulse/industry-specific-applications-ai-financial-services-healthcare-will-919re",
+            "relevance_score": 92,
+            "published_date": "2026-04-27"
+        },
+        {
+            "headline": "MIT's New AI Model Could Cut the Costs of Developing Protein Drugs",
+            "summary": "MIT chemical engineers have developed an AI model to optimize genetic sequences, significantly improving the production efficiency of industrial yeast used in drug manufacturing. The model aims to lower the costs of producing biopharmaceuticals such as vaccines and other protein-based drugs. The initiative is part of a larger trend of integrating AI for cost efficiency in drug development and manufacturing. AI's capabilities in genomics and biopharma are heralding significant advancements in the healthcare industry. The project exemplifies how AI can transform complex scientific processes for economic benefit.",
+            "relevance_justification": "This development is particularly relevant to the healthcare industry, representing a significant advancement in the use of AI to optimize drug manufacturing processes.",
+            "category": [
+                "New Models & Core Tech"
+            ],
+            "industry": [
+                "Healthcare & Pharma"
+            ],
+            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
             "relevance_score": 90,
-            "published_date": "2026-04-27"
+            "published_date": "2026-02-16"
         },
         {
-            "headline": "AI & Tech Spotlight: The Latest Breakthroughs You Can’t Miss",
-            "summary": "The spotlight provides a comprehensive view of AI and tech breakthroughs, discussing their implications across various industries. It highlights how AI is utilized to address climate change by predicting weather, optimizing energy use, and enhancing agricultural yields. The article also emphasizes AI's role in advancing sustainability and ethical AI practices. AI's growing ability to mimic human reasoning is transforming sectors like healthcare and sustainability. Innovations in AI models and their applications are reshaping industrial efficiencies and sustainability efforts.",
-            "relevance_justification": "The article discusses breakthroughs in AI models and technology that are real-world solutions, aligning with interests in AI advancements used across diverse industries.",
-            "category": ["New Models & Core Tech"],
-            "industry": ["Tech & SaaS", "Healthcare & Pharma"],
-            "source_link": "https://www.linkedin.com/pulse/ai-tech-spotlight-latest-breakthroughs-you-cant-miss-appnox-0uptc",
-            "relevance_score": 85,
-            "published_date": "2026-04-27"
-        },
-        {
-            "headline": "How state privacy laws regulate AI: 6 steps to compliance : PwC",
-            "summary": "Recent legislation in several U.S. states adds explicit requirements for AI within privacy laws, addressing concerns around AI-driven profiling and data handling. For example, Texas restricts profiling impacts and mandates risk assessments while California requires public notification when AI is employed in ADM (Automated Decision Making). The article highlights the growing regulatory focus on AI's involvement in personal data processing. These regulations aim to ensure accountability, explainability, and transparency, key privacy principles, shaping new laws nationwide. Organizations are advised to understand evolving data privacy laws affecting AI in data management and decision-making.",
-            "relevance_justification": "This article is relevant for its focus on new regulations governing AI and data privacy, crucial for compliance and understanding legal landscapes affecting AI deployment.",
-            "category": ["Data Privacy & Compliance"],
-            "industry": ["Tech & SaaS"],
-            "source_link": "https://www.pwc.com/us/en/services/consulting/cybersecurity-risk-regulatory/library/tech-regulatory-policy-developments/privacy-laws.html",
-            "relevance_score": 81,
-            "published_date": "2026-04-27"
+            "headline": "Insilico Medicine and Eli Lilly Form $2.75B AI Drug Discovery Collaboration",
+            "summary": "Eli Lilly and Insilico Medicine have entered a $2.75 billion collaboration using Insilico's generative AI platform for drug discovery. The deal grants Eli Lilly exclusive rights to develop and market preclinical drug candidates found through the AI system. This partnership demonstrates the growing trend of pharmaceutical companies leveraging AI for innovative research and development processes. The collaboration is expected to accelerate drug discovery timelines and enhance the efficiency of drug development. This strategic move positions Eli Lilly at the forefront of AI-driven pharmaceutical research.",
+            "relevance_justification": "This article is highly relevant as it highlights a significant financial and strategic partnership between a major pharmaceutical company and an AI developer, indicating the industry's commitment to AI-driven drug discovery.",
+            "category": [
+                "New Models & Core Tech"
+            ],
+            "industry": [
+                "Healthcare & Pharma"
+            ],
+            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
+            "relevance_score": 89,
+            "published_date": "2026-03-29"
         }
     ]
 }
