@@ -1,67 +1,60 @@
 {
     "news": [
         {
-            "headline": "Alithya's industry insights reveal 2026 priorities and AI trends across financial services, manufacturing, and healthcare",
-            "summary": "Alithya has published its latest industry research that identifies key trends and priorities in financial services, manufacturing, and healthcare for 2026. The study highlights an increase in AI adoption as organizations face financial pressures and operational challenges. Manufacturing leaders are focusing on AI readiness and automation strategies to enhance productivity and resilience. Healthcare executives see significant potential in technology investments to reduce labor costs and administrative burdens. Overall, the research emphasizes the centrality of AI-supported decision-making in maintaining competitiveness.",
-            "relevance_justification": "The news report provides relevant insights on how AI trends are shaping up in multiple industries such as financial services, manufacturing, and healthcare in 2026. It discusses significant themes like AI adoption, automation, and financial pressures.",
+            "headline": "Mozilla Introduces Privacy Tool for AI Data Control",
+            "summary": "Mozilla has unveiled a new privacy tool within its Firefox browser, allowing users to opt-out of and delete their data from AI training datasets. This tool aims to counteract unauthorized data scraping by major tech firms, thereby enhancing digital privacy. It sends requests to AI companies to expunge browsing history and related data from their models. This initiative is a significant aspect of Mozilla's \"Trustworthy AI\" strategy, focusing on user control over data footprints in the AI era. Privacy advocates have lauded this as a major step toward achieving \"data dignity\" and ensuring user consent in the automated digital landscape.",
+            "relevance_justification": "This article highlights a significant development in AI data privacy, aligning with growing concerns about user data exploitation by AI systems.",
             "category": [
-                "New Tools & Open Source",
-                "AI in B2B SaaS"
+                "Data Privacy & Compliance"
             ],
             "industry": [
-                "Tech & SaaS",
-                "Financial Services",
-                "Manufacturing & Supply Chain",
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.prnewswire.com/news-releases/alithyas-industry-insights-reveal-2026-priorities-and-ai-trends-across-financial-services-manufacturing-and-healthcare-302721493.html",
-            "relevance_score": 95,
-            "published_date": "2026-03-23"
-        },
-        {
-            "headline": "Industry-Specific Applications: AI in Financial Services, Healthcare, and Manufacturing",
-            "summary": "BMW has rolled out an AI quality inspection platform in its production facilities that has significantly reduced vehicle defects and inspection time. In financial services, JPMorgan Chase's AI system for fraud detection has revolutionized transaction analysis, thus enhancing fraud detection rates while minimizing false positives. The article details specific and impactful AI strategies applied uniquely across different industries. It contrasts these strategies against generalized AI solutions, providing insights into the customization needed for effective AI deployment. These examples underscore the transformative potential of industry-specific AI applications.",
-            "relevance_justification": "This news item highlights successful implementations of AI in key sectors such as manufacturing and financial services, reflecting current advancements and the tangible impact of AI on business operations.",
-            "category": [
-                "New Tools & Open Source",
-                "AI in B2B SaaS"
-            ],
-            "industry": [
-                "Manufacturing & Supply Chain",
-                "Financial Services",
                 "Tech & SaaS"
             ],
-            "source_link": "https://www.linkedin.com/pulse/industry-specific-applications-ai-financial-services-healthcare-will-919re",
-            "relevance_score": 92,
-            "published_date": "2026-04-27"
+            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "relevance_score": 99,
+            "published_date": "2026-02-02"
         },
         {
-            "headline": "MIT's New AI Model Could Cut the Costs of Developing Protein Drugs",
-            "summary": "MIT chemical engineers have developed an AI model to optimize genetic sequences, significantly improving the production efficiency of industrial yeast used in drug manufacturing. The model aims to lower the costs of producing biopharmaceuticals such as vaccines and other protein-based drugs. The initiative is part of a larger trend of integrating AI for cost efficiency in drug development and manufacturing. AI's capabilities in genomics and biopharma are heralding significant advancements in the healthcare industry. The project exemplifies how AI can transform complex scientific processes for economic benefit.",
-            "relevance_justification": "This development is particularly relevant to the healthcare industry, representing a significant advancement in the use of AI to optimize drug manufacturing processes.",
+            "headline": "AI-Powered Martech Innovations Emerge",
+            "summary": "Seedtag's NeuroX has been launched, allowing digital ads to be placed based on webpage context without infringing on personal privacy. Siteimprove's new tool monitors AI search engine answers for brand appearances, offering companies suggestions for optimizing their data formats to improve AI model visibility. The integration of AI by StackAdapt aids marketers in assessing ad campaign efficiency through simple inquiries. Subtext has enhanced its SMS platform, providing better management and monetization tracking of messages according to subscriber preferences. Meanwhile, AI Digital's Elevate platform leverages neural networks to create transparency in media performance analytics.",
+            "relevance_justification": "This report on recent AI-driven marketing technologies shows significant advancements in non-intrusive digital advertising and content optimization, relevant to AI in Digital Marketing & SEO.",
             "category": [
-                "New Models & Core Tech"
+                "AI in Digital Marketing & SEO"
             ],
             "industry": [
-                "Healthcare & Pharma"
+                "Tech & SaaS"
             ],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 90,
-            "published_date": "2026-02-16"
+            "source_link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+            "relevance_score": 99,
+            "published_date": "2026-04-09"
         },
         {
-            "headline": "Insilico Medicine and Eli Lilly Form $2.75B AI Drug Discovery Collaboration",
-            "summary": "Eli Lilly and Insilico Medicine have entered a $2.75 billion collaboration using Insilico's generative AI platform for drug discovery. The deal grants Eli Lilly exclusive rights to develop and market preclinical drug candidates found through the AI system. This partnership demonstrates the growing trend of pharmaceutical companies leveraging AI for innovative research and development processes. The collaboration is expected to accelerate drug discovery timelines and enhance the efficiency of drug development. This strategic move positions Eli Lilly at the forefront of AI-driven pharmaceutical research.",
-            "relevance_justification": "This article is highly relevant as it highlights a significant financial and strategic partnership between a major pharmaceutical company and an AI developer, indicating the industry's commitment to AI-driven drug discovery.",
+            "headline": "AI Marketing Tools 2026: Trends and Innovations",
+            "summary": "The latest report emphasizes AI’s deep integration into modern marketing, highlighting its role in transforming decision-making processes. AI-driven analytics now enable marketing teams to predict customer behavior and personalize experiences on a vast scale, a task previously considered unattainable. Tools like DataRobot offer no-code model building, making sophisticated AI tools accessible to non-technical users. This shifts the focus towards democratizing AI, reducing barriers for smaller teams. The article underscores AI's fundamental change from a futuristic concept to a core component of effective marketing strategies.",
+            "relevance_justification": "This highlights transformative AI trends in marketing workflows, illustrating the profound impact of AI tools in reshaping digital marketing and operational strategies.",
             "category": [
-                "New Models & Core Tech"
+                "AI in Digital Marketing & SEO"
             ],
             "industry": [
-                "Healthcare & Pharma"
+                "Tech & SaaS"
             ],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 89,
-            "published_date": "2026-03-29"
+            "source_link": "https://www.gwi.com/blog/ai-marketing-tools",
+            "relevance_score": 99,
+            "published_date": "2026-04-28"
+        },
+        {
+            "headline": "State Privacy Laws Engage AI on Compliance Front",
+            "summary": "As privacy laws evolve, several U.S. states are beginning to target AI's role in data processing and automated decision-making. New regulations demand businesses to navigate complex compliance landscapes, ensuring transparency and data protection when using AI technologies. For example, Texas requires risk assessments for AI profiling, while California emphasizes transparency about AI usage in data-driven decision-making. Such regulations compel businesses to maintain clarity in privacy policies. These legal frameworks aim to safeguard consumer rights and ensure ethical considerations are observed in deploying AI systems.",
+            "relevance_justification": "Attention to AI-driven data practices is crucial, with laws presenting new compliance challenges, impacting businesses utilizing AI in data management and customer interactions.",
+            "category": [
+                "Data Privacy & Compliance"
+            ],
+            "industry": [
+                "Tech & SaaS"
+            ],
+            "source_link": "https://www.pwc.com/us/en/services/consulting/cybersecurity-risk-regulatory/library/tech-regulatory-policy-developments/privacy-laws.html",
+            "relevance_score": 82,
+            "published_date": "2026-04-28"
         }
     ]
 }
