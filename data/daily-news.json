@@ -1,74 +1,104 @@
 {
-    "news": [
-        {
-            "headline": "Latest Global Generative AI in Chemical Market Size/Share",
-            "summary": "According to Custom Market Insights, the Global Generative AI in Chemical Market is projected to grow significantly, reaching approximately USD 12.84 billion by 2035 at a CAGR of 24.9%. The report highlights that current market value rose from USD 0.98 billion in 2025 to an expected USD 1.38 billion in 2026. Major companies like NVIDIA, IBM, and Microsoft are key players involved in this market expansion, focusing on applications like molecule discovery and process optimization. This growth is driven by advancements in AI technologies such as molecular design tools and chemical informatics platforms. The report underscores the transformative impact on industries such as pharmaceuticals, life sciences, and specialty chemicals.",
-            "relevance_justification": "This news item is highly relevant as it discusses the growing influence of AI in the chemical industry—a key focus area in the query, detailing market trends and major industry players.",
-            "category": [
-                "New Tools & Open Source"
-            ],
-            "industry": [
-                "Chemical Industry"
-            ],
-            "source_link": "https://www.globenewswire.com/news-release/2026/04/28/3283146/0/en/latest-global-generative-ai-in-chemical-market-size-share-worth-usd-12-84-billion-by-2035-at-a-24-9-cagr-custom-market-insights-analysis-outlook-leaders-report-trends-forecast-segm.html",
-            "relevance_score": 75,
-            "published_date": "2026-04-29"
-        },
-        {
-            "headline": "Insilico Medicine and Eli Lilly Form $2.75B AI Drug Discovery Collaboration",
-            "summary": "Eli Lilly has formed a significant partnership with Insilico Medicine, valued at up to $2.75 billion. This collaboration allows Lilly to use Insilico's generative AI platform, Pharma.AI, for the development and commercialization of preclinical drug candidates. The partnership underscores the increasing reliance on AI to enhance the efficiency and effectiveness of drug discovery processes. By leveraging such advanced AI technologies, the collaboration aims to accelerate the identification of viable drug targets and streamline drug development. This reflects a broader trend within the pharmaceutical industry toward integrating AI to innovate and optimize operations.",
-            "relevance_justification": "This article is relevant as it highlights a major collaboration in the healthcare sector using AI, focusing on drug discovery, which is a key intersection of AI and healthcare.",
-            "category": [
-                "New Models & Core Tech"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 70,
-            "published_date": "2026-03-29"
-        },
-        {
-            "headline": "Summit Therapeutics Partners with Akeso in $5B+ AI-Driven Immunotherapy Deal",
-            "summary": "Summit Therapeutics has partnered with Akeso Inc. in a licensing agreement exceeding $5 billion to co-develop and market the PD-1/VEGF bispecific antibody Ivonescimab. This deal utilizes AI to advance immunotherapy, enhancing the effectiveness and discovery of treatments. The collaboration exemplifies how AI technology can bolster the development of targeted therapies in oncology, showcasing innovations that push the boundaries of current medical capabilities. By harnessing AI, Summit and Akeso aim to accelerate the treatment development process, bringing new solutions to market faster. The deal is a significant step towards more personalized and effective cancer treatments.",
-            "relevance_justification": "This article is relevant due to its focus on a substantial AI-driven immunotherapy deal, highlighting AI's transformative role in the healthcare industry.",
-            "category": [
-                "New Models & Core Tech"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://www.crescendo.ai/news/ai-in-healthcare-news",
-            "relevance_score": 68,
-            "published_date": "2025-07-06"
-        },
-        {
-            "headline": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
-            "summary": "Roche has implemented NVIDIA’s AI technologies globally to enhance its drug discovery, diagnostics, and manufacturing processes. This collaboration involves utilizing advanced computing platforms to accelerate molecular design and analysis. Roche aims to integrate digital twins and AI-driven lab automation to boost efficiency and innovation across its facilities. These initiatives are expected to fast-track pharmaceutical R&D and improve production capabilities. NVIDIA’s AI platforms support Roche’s goal of embedding AI at the core of scientific and clinical workflows, potentially transforming the healthcare sector by enabling faster therapeutic development and more precise diagnostics.",
-            "relevance_justification": "The news is pertinent as it discusses Roche's strategic adoption of AI technologies from NVIDIA, a major development in applying AI to enhance pharmaceutical and diagnostic operations.",
-            "category": [
-                "AI in B2B SaaS"
-            ],
-            "industry": [
-                "Healthcare & Pharma"
-            ],
-            "source_link": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
-            "relevance_score": 67,
-            "published_date": "2026-04-29"
-        },
-        {
-            "headline": "Chemical Giant Dow Inc. to Cut 4,500 Jobs Amid AI-Driven Restructuring",
-            "summary": "Dow Inc. announced a major restructuring plan involving a workforce reduction of 4,500 positions, aiming to reallocate resources towards AI and automation strategies. The company is focusing on AI-driven predictive maintenance and autonomous supply chain management to improve operational efficiency. This move reflects the broader trend of AI integration in the manufacturing sector to streamline processes and cut costs. While the layoffs are significant, Dow intends to invest in tech talent to drive its digital-first approach. The restructuring emphasizes the critical role of AI in the evolving landscape of industrial operations.",
-            "relevance_justification": "This report is relevant as it highlights the impact of AI in transforming traditional chemical industry operations, reflecting a key industry trend towards automation.",
-            "category": [
-                "AI in B2B SaaS"
-            ],
-            "industry": [
-                "Chemical Industry"
-            ],
-            "source_link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-            "relevance_score": 65,
-            "published_date": "2026-01-29"
-        }
-    ]
+  "overview": {
+    "time_window": "last 7 days",
+    "generated_at": "2026-04-29",
+    "total_items": 8,
+    "categories": {
+      "AI Layoffs and Workforce": 4,
+      "New Models and Core Tech": 3,
+      "AI Agents and Automation": 2,
+      "AI Infrastructure and Chips": 1,
+      "AI Safety and Ethics": 1,
+      "AI Investments and Funding": 1
+    },
+    "industries": {
+      "Technology and Software": 7,
+      "All Industries": 5,
+      "Financial Services and Banking": 2,
+      "Media and Entertainment": 1,
+      "Government and Public Sector": 1
+    }
+  },
+  "news": [
+    {
+      "headline": "Meta Will Cut 10% of Workforce About 8,000 Employees as Company Pushes Deeper into AI",
+      "summary": "Meta plans to lay off approximately 10% of its workforce, around 8,000 employees, with cuts beginning May 20, 2026, according to a memo sent to employees on Thursday. The company is also scrapping plans to fill 6,000 open roles, effectively amplifying the workforce reduction. The layoffs follow several smaller rounds already completed in 2026, including cuts to Reality Labs in January and a March round affecting Facebook, global operations, and sales units. Meta also announced it is shifting away from third-party vendors and contractors who handled content moderation tasks, replacing them with AI technologies. Microsoft simultaneously confirmed it will offer voluntary buyouts to eligible U.S. employees, a first in the company's 51-year history, with about 7% of U.S. staff eligible according to a source familiar with the plans.",
+      "relevance_justification": "Two of the biggest names in tech slashing headcount on the same day while doubling down on AI spend is the clearest signal yet that we are living through a structural workforce reset, not a cyclical blip. If you are in any role that touches technology, this story is directly relevant to you.",
+      "category": ["AI Layoffs and Workforce", "AI Investments and Funding"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html",
+      "relevance_score": 96,
+      "published_date": "2026-04-23"
+    },
+    {
+      "headline": "DeepSeek Launches V4 Preview Tailored for Huawei Chips, Pushing China AI Tech Autonomy",
+      "summary": "Chinese AI startup DeepSeek launched a preview of its new model, DeepSeek V4, on April 24, 2026, describing it as an update to last year's V3 model and the accompanying R1 reasoning model that disrupted global AI markets. The model is specifically adapted to run on Huawei chip technology, underscoring China's push to reduce dependence on US semiconductor infrastructure. DeepSeek said V4 closes the gap with frontier models, and TechCrunch reported it as a highly awaited update from the lab. The preview launch sent shares of rival Chinese AI firms tumbling, with Zhipu AI and MiniMax each losing approximately 9% on Hong Kong markets. Reuters described V4's release as underlining China's growing AI autonomy and contrasting with DeepSeek's previous reliance on Nvidia chips.",
+      "relevance_justification": "DeepSeek building a top-tier model that runs on Huawei chips and locking out Nvidia is a geopolitical AI story as much as a technical one. The US-China AI race just entered a new hardware dimension, and this is the story that defines it.",
+      "category": ["New Models and Core Tech", "AI Infrastructure and Chips"],
+      "industry": ["Technology and Software", "All Industries", "Government and Public Sector"],
+      "source_link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+      "relevance_score": 93,
+      "published_date": "2026-04-24"
+    },
+    {
+      "headline": "OpenAI Releases GPT-5.5, Deploying to Plus, Pro, Business, and Enterprise ChatGPT Users",
+      "summary": "OpenAI released GPT-5.5, its latest model update, and began deploying it to Plus, Pro, Business, and Enterprise users in ChatGPT, according to TechCrunch. A separate variant, GPT-5.5 Pro, is rolling out specifically to Pro, Business, and Enterprise tiers. TechCrunch described the release as bringing OpenAI one step closer to building an AI super app. The release follows OpenAI's April 14 launch of GPT-5.4-Cyber, a variant of its flagship model fine-tuned specifically for defensive cybersecurity tasks, which Reuters reported was unveiled a week after a rival's cybersecurity model announcement. Both releases signal OpenAI's strategy of shipping differentiated, task-specific variants alongside its main model line.",
+      "relevance_justification": "OpenAI is not just releasing one model at a time anymore. GPT-5.5 for general users and GPT-5.4-Cyber for security professionals show a deliberate product-line strategy. The super app framing is the bigger signal: OpenAI wants to own your entire AI workflow, not just your chat window.",
+      "category": ["New Models and Core Tech"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "relevance_score": 91,
+      "published_date": "2026-04-23"
+    },
+    {
+      "headline": "Anthropic Launches New Product to Handle the Hard Part of Building AI Agents",
+      "summary": "Anthropic announced a new product designed to make it easier for businesses to build and deploy AI agents, according to Wired. The product addresses what Anthropic describes as the most difficult aspects of agent development, targeting enterprise customers looking to move beyond experimentation into production deployments. The announcement positions Anthropic as not just a model provider but a managed platform for agentic AI, competing more directly with cloud providers offering end-to-end agent infrastructure. Wired reported the launch on Wednesday, describing it as aimed at reducing the friction businesses face when operationalizing AI agents at scale. The product launch comes amid a broader industry shift in which agentic AI is increasingly seen as the primary enterprise deployment paradigm for 2026.",
+      "relevance_justification": "Anthropic stepping into the infrastructure space is a direct shot at the complexity that is slowing enterprise AI adoption. For anyone building with AI inside a large org, this is worth a close look. It is exactly the category of tooling that unlocks real deployment.",
+      "category": ["AI Agents and Automation"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "relevance_score": 87,
+      "published_date": null
+    },
+    {
+      "headline": "Tech Sector Job-Cut Announcements Keep Rising With AI Adoption, Bloomberg Reports",
+      "summary": "Employers in the technology sector announced 18,720 job cuts in a recent reporting period, up more than 24% compared to March 2025, according to outplacement firm Challenger, Gray and Christmas data cited by Bloomberg. The data was published on April 2, 2026 and reflects an accelerating trend of tech workforce reductions tied to companies' AI investment strategies. Bloomberg noted that leaner staffing levels are becoming a deliberate corporate strategy as AI tools allow firms to do more with smaller teams. The pattern is consistent across companies of different sizes and subsectors, not limited to any single firm. Reuters separately reported that investors' and economists' concerns about AI upending established industries are deepening, with job losses already emerging in sectors most exposed to automation.",
+      "relevance_justification": "A 24% year-over-year spike in tech job cuts is a number your audience needs in their back pocket. It puts the Meta and Microsoft announcements in statistical context and makes the case that this is a sector-wide structural shift, not isolated decisions.",
+      "category": ["AI Layoffs and Workforce"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
+      "relevance_score": 84,
+      "published_date": "2026-04-02"
+    },
+    {
+      "headline": "Meta Unveils First AI Model from Its Costly Superintelligence Team",
+      "summary": "Meta unveiled its first major AI model developed by its superintelligence team, led by Scale AI co-founder Alexandr Wang, who was hired at significant cost earlier in 2026, according to Reuters. The model, named Muse Spark, was announced on April 8, 2026. The release marks a milestone for Meta's attempt to compete with OpenAI, Google, and Anthropic in frontier AI, areas where the company has acknowledged it has lagged. The unveiling follows Meta's public commitment to restructure its workforce and redirect investment aggressively toward AI. Reuters reported the announcement in the context of Meta's broader AI strategy and its costly superintelligence hiring push.",
+      "relevance_justification": "Meta's superintelligence team finally has a model to show, and this is the proof-of-investment moment after one of the most expensive executive hires in tech history. Watch this space: whether Muse Spark competes with GPT-5.5 and Claude will define Meta's AI credibility for 2026.",
+      "category": ["New Models and Core Tech"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/",
+      "relevance_score": 82,
+      "published_date": "2026-04-08"
+    },
+    {
+      "headline": "Snap Lays Off About 1,000 Employees Including 16% of Full-Time Staff in AI Efficiency Push",
+      "summary": "Snap announced it would lay off approximately 1,000 employees, including about 16% of its full-time staff, according to Reuters. The move came weeks after activist investor Irenic Capital Management pushed the Snapchat parent to optimize its portfolio and operations. The layoffs are part of a broader wave of corporate efficiency measures in which AI is cited as both a driver and enabler of leaner organizational structures. Reuters reported the Snap cuts alongside similar moves by other firms, describing the trend as Corporate America continuing job cuts in 2026 in an efficiency push. The announcement adds Snap to a growing list of tech and media companies including Meta, Microsoft, Oracle, and Atlassian that have linked 2026 workforce reductions explicitly to AI investment strategies.",
+      "relevance_justification": "Snap joining the AI-driven layoff wave is significant because it shows this is not just a hyperscaler story. Mid-size consumer tech companies are making the same trade-off: fewer people, more AI. The breadth of this trend is the real headline.",
+      "category": ["AI Layoffs and Workforce"],
+      "industry": ["Technology and Software", "Media and Entertainment"],
+      "source_link": "https://www.reuters.com/business/world-at-work/corporate-america-continues-job-cuts-2026-efficiency-push-2026-04-15/",
+      "relevance_score": 78,
+      "published_date": "2026-04-15"
+    },
+    {
+      "headline": "Norway $2.2 Trillion Sovereign Wealth Fund CEO Warns Companies Not to Use AI Solely for Job Cuts",
+      "summary": "The CEO of Norway's sovereign wealth fund, the world's largest at $2.2 trillion, publicly urged companies to use artificial intelligence to lift everybody up rather than simply as a tool for cutting jobs, Reuters reported on April 28, 2026. The warning came amid mounting concern that AI-driven workforce reductions are accelerating faster than workers can adapt or be retrained. As one of the world's largest institutional investors with stakes in thousands of global companies, the fund's CEO carries significant weight in shaping corporate governance expectations. The statement reflects a growing investor-class awareness that pure cost-cutting use of AI may generate short-term savings but risks long-term social and reputational backlash. The intervention is notable as one of the most prominent financial voices pushing back against the current trajectory of AI-linked mass layoffs.",
+      "relevance_justification": "When the world's largest sovereign wealth fund starts publicly telling companies to think twice about using AI purely to cut people, that is a governance signal worth paying attention to, and a powerful counter-narrative to share alongside the Meta and Microsoft layoff stories.",
+      "category": ["AI Safety and Ethics", "AI Layoffs and Workforce"],
+      "industry": ["Financial Services and Banking", "All Industries", "Government and Public Sector"],
+      "source_link": "https://www.reuters.com/business/retail-consumer/norway-wealth-fund-ceo-warns-just-using-ai-job-cuts-risks-backlash-2026-04-28/",
+      "relevance_score": 76,
+      "published_date": "2026-04-28"
+    }
+  ]
 }
