@@ -1,104 +1,74 @@
 {
   "overview": {
     "time_window": "last 7 days",
-    "generated_at": "2026-04-29",
-    "total_items": 8,
+    "generated_at": "2026-04-30",
+    "total_items": 5,
     "categories": {
-      "AI Layoffs and Workforce": 4,
-      "New Models and Core Tech": 3,
-      "AI Agents and Automation": 2,
-      "AI Infrastructure and Chips": 1,
-      "AI Safety and Ethics": 1,
-      "AI Investments and Funding": 1
+      "AI Agents and Automation": 3,
+      "New Models and Core Tech": 2,
+      "AI Adoption and Deployment": 3,
+      "AI Partnerships and Deals": 2,
+      "New Tools and Open Source": 1
     },
     "industries": {
-      "Technology and Software": 7,
-      "All Industries": 5,
-      "Financial Services and Banking": 2,
-      "Media and Entertainment": 1,
-      "Government and Public Sector": 1
+      "All Industries": 3,
+      "Technology and Software": 4,
+      "Manufacturing and Industrial": 2,
+      "Financial Services and Banking": 1,
+      "Retail and E-commerce": 1,
+      "Healthcare and Pharma": 1
     }
   },
   "news": [
     {
-      "headline": "Meta Will Cut 10% of Workforce About 8,000 Employees as Company Pushes Deeper into AI",
-      "summary": "Meta plans to lay off approximately 10% of its workforce, around 8,000 employees, with cuts beginning May 20, 2026, according to a memo sent to employees on Thursday. The company is also scrapping plans to fill 6,000 open roles, effectively amplifying the workforce reduction. The layoffs follow several smaller rounds already completed in 2026, including cuts to Reality Labs in January and a March round affecting Facebook, global operations, and sales units. Meta also announced it is shifting away from third-party vendors and contractors who handled content moderation tasks, replacing them with AI technologies. Microsoft simultaneously confirmed it will offer voluntary buyouts to eligible U.S. employees, a first in the company's 51-year history, with about 7% of U.S. staff eligible according to a source familiar with the plans.",
-      "relevance_justification": "Two of the biggest names in tech slashing headcount on the same day while doubling down on AI spend is the clearest signal yet that we are living through a structural workforce reset, not a cyclical blip. If you are in any role that touches technology, this story is directly relevant to you.",
-      "category": ["AI Layoffs and Workforce", "AI Investments and Funding"],
-      "industry": ["Technology and Software", "All Industries"],
-      "source_link": "https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html",
-      "relevance_score": 96,
-      "published_date": "2026-04-23"
+      "headline": "NVIDIA Launches Nemotron 3 Nano Omni - Open Multimodal Model Delivering 9x More Efficient AI Agents",
+      "summary": "NVIDIA unveiled Nemotron 3 Nano Omni on April 28, 2026, an open omni-modal reasoning model that unifies vision, audio, and language in a single 30B-A3B hybrid mixture-of-experts architecture. The model tops six leaderboards for complex document intelligence, and video and audio understanding. It delivers 9x higher throughput than other open omni models with the same interactivity, enabling significantly lower costs and better scalability. The model is available via Hugging Face, OpenRouter, build.nvidia.com, and 25+ partner platforms. Companies including Foxconn, Palantir, Docusign, Oracle, and Infosys are already adopting or evaluating it.",
+      "relevance_justification": "A unified, open, highly efficient multimodal model that lets enterprises build faster agents at a fraction of the cost. This is the kind of no-code/low-infrastructure unlock that shifts what non-technical teams can realistically deploy. Huge LinkedIn content hook.",
+      "category": ["New Models and Core Tech", "AI Agents and Automation"],
+      "industry": ["Technology and Software", "Manufacturing and Industrial", "Healthcare and Pharma"],
+      "source_link": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
+      "relevance_score": 95,
+      "published_date": "2026-04-28"
     },
     {
-      "headline": "DeepSeek Launches V4 Preview Tailored for Huawei Chips, Pushing China AI Tech Autonomy",
-      "summary": "Chinese AI startup DeepSeek launched a preview of its new model, DeepSeek V4, on April 24, 2026, describing it as an update to last year's V3 model and the accompanying R1 reasoning model that disrupted global AI markets. The model is specifically adapted to run on Huawei chip technology, underscoring China's push to reduce dependence on US semiconductor infrastructure. DeepSeek said V4 closes the gap with frontier models, and TechCrunch reported it as a highly awaited update from the lab. The preview launch sent shares of rival Chinese AI firms tumbling, with Zhipu AI and MiniMax each losing approximately 9% on Hong Kong markets. Reuters described V4's release as underlining China's growing AI autonomy and contrasting with DeepSeek's previous reliance on Nvidia chips.",
-      "relevance_justification": "DeepSeek building a top-tier model that runs on Huawei chips and locking out Nvidia is a geopolitical AI story as much as a technical one. The US-China AI race just entered a new hardware dimension, and this is the story that defines it.",
-      "category": ["New Models and Core Tech", "AI Infrastructure and Chips"],
-      "industry": ["Technology and Software", "All Industries", "Government and Public Sector"],
-      "source_link": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
-      "relevance_score": 93,
-      "published_date": "2026-04-24"
+      "headline": "OpenAI Scales Codex to 4 Million Weekly Developers, Launches Codex Labs and GSI Partnerships",
+      "summary": "OpenAI announced on April 21, 2026 that Codex had grown to more than 4 million weekly active users, up from 3 million reported in early April. The company launched Codex Labs, a programme that brings OpenAI experts directly into enterprises for hands-on workshops to move from early usage to repeatable deployment. OpenAI also announced partnerships with seven global systems integrators: Accenture, Capgemini, CGI, Cognizant, Infosys, PwC, and Tata Consultancy Services. Enterprises including Virgin Atlantic, Ramp, Notion, Cisco, and Rakuten are using Codex across the software development lifecycle and beyond. OpenAI noted Codex is expanding beyond coding into browser-based work, image generation, memory, and multi-tool workflows.",
+      "relevance_justification": "Codex is no longer just a developer tool. It is crossing into every-employee territory. The GSI partnerships mean large enterprises now have a structured on-ramp. This is the AI for non-coders story in real time.",
+      "category": ["AI Agents and Automation", "AI Adoption and Deployment"],
+      "industry": ["Technology and Software", "All Industries"],
+      "source_link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide/",
+      "relevance_score": 92,
+      "published_date": "2026-04-21"
     },
     {
-      "headline": "OpenAI Releases GPT-5.5, Deploying to Plus, Pro, Business, and Enterprise ChatGPT Users",
-      "summary": "OpenAI released GPT-5.5, its latest model update, and began deploying it to Plus, Pro, Business, and Enterprise users in ChatGPT, according to TechCrunch. A separate variant, GPT-5.5 Pro, is rolling out specifically to Pro, Business, and Enterprise tiers. TechCrunch described the release as bringing OpenAI one step closer to building an AI super app. The release follows OpenAI's April 14 launch of GPT-5.4-Cyber, a variant of its flagship model fine-tuned specifically for defensive cybersecurity tasks, which Reuters reported was unveiled a week after a rival's cybersecurity model announcement. Both releases signal OpenAI's strategy of shipping differentiated, task-specific variants alongside its main model line.",
-      "relevance_justification": "OpenAI is not just releasing one model at a time anymore. GPT-5.5 for general users and GPT-5.4-Cyber for security professionals show a deliberate product-line strategy. The super app framing is the bigger signal: OpenAI wants to own your entire AI workflow, not just your chat window.",
-      "category": ["New Models and Core Tech"],
+      "headline": "OpenAI and Microsoft Amend Partnership: Non-Exclusive License, No More Revenue Share to OpenAI",
+      "summary": "OpenAI and Microsoft announced an amended partnership agreement on April 27, 2026, designed to simplify how the two companies work together. Microsoft remains OpenAI's primary cloud partner, with OpenAI products shipping first on Azure unless Microsoft cannot or chooses not to support the required capabilities, but OpenAI can now serve products across any cloud provider. Microsoft's IP license for OpenAI models and products continues through 2032 but is now non-exclusive. Microsoft will no longer pay a revenue share to OpenAI, while OpenAI's revenue share payments to Microsoft continue through 2030 at the same percentage but subject to a total cap. Microsoft continues to participate in OpenAI's growth as a major shareholder.",
+      "relevance_justification": "This is a structural shift in the most important AI partnership in tech. OpenAI gaining multi-cloud freedom signals growing leverage and ambition. For enterprise AI buyers, it means more deployment flexibility is coming.",
+      "category": ["AI Partnerships and Deals"],
       "industry": ["Technology and Software", "All Industries"],
-      "source_link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "relevance_score": 91,
-      "published_date": "2026-04-23"
+      "source_link": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+      "relevance_score": 90,
+      "published_date": "2026-04-27"
     },
     {
-      "headline": "Anthropic Launches New Product to Handle the Hard Part of Building AI Agents",
-      "summary": "Anthropic announced a new product designed to make it easier for businesses to build and deploy AI agents, according to Wired. The product addresses what Anthropic describes as the most difficult aspects of agent development, targeting enterprise customers looking to move beyond experimentation into production deployments. The announcement positions Anthropic as not just a model provider but a managed platform for agentic AI, competing more directly with cloud providers offering end-to-end agent infrastructure. Wired reported the launch on Wednesday, describing it as aimed at reducing the friction businesses face when operationalizing AI agents at scale. The product launch comes amid a broader industry shift in which agentic AI is increasingly seen as the primary enterprise deployment paradigm for 2026.",
-      "relevance_justification": "Anthropic stepping into the infrastructure space is a direct shot at the complexity that is slowing enterprise AI adoption. For anyone building with AI inside a large org, this is worth a close look. It is exactly the category of tooling that unlocks real deployment.",
-      "category": ["AI Agents and Automation"],
-      "industry": ["Technology and Software", "All Industries"],
-      "source_link": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-      "relevance_score": 87,
-      "published_date": null
-    },
-    {
-      "headline": "Tech Sector Job-Cut Announcements Keep Rising With AI Adoption, Bloomberg Reports",
-      "summary": "Employers in the technology sector announced 18,720 job cuts in a recent reporting period, up more than 24% compared to March 2025, according to outplacement firm Challenger, Gray and Christmas data cited by Bloomberg. The data was published on April 2, 2026 and reflects an accelerating trend of tech workforce reductions tied to companies' AI investment strategies. Bloomberg noted that leaner staffing levels are becoming a deliberate corporate strategy as AI tools allow firms to do more with smaller teams. The pattern is consistent across companies of different sizes and subsectors, not limited to any single firm. Reuters separately reported that investors' and economists' concerns about AI upending established industries are deepening, with job losses already emerging in sectors most exposed to automation.",
-      "relevance_justification": "A 24% year-over-year spike in tech job cuts is a number your audience needs in their back pocket. It puts the Meta and Microsoft announcements in statistical context and makes the case that this is a sector-wide structural shift, not isolated decisions.",
-      "category": ["AI Layoffs and Workforce"],
-      "industry": ["Technology and Software", "All Industries"],
-      "source_link": "https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption",
-      "relevance_score": 84,
-      "published_date": "2026-04-02"
-    },
-    {
-      "headline": "Meta Unveils First AI Model from Its Costly Superintelligence Team",
-      "summary": "Meta unveiled its first major AI model developed by its superintelligence team, led by Scale AI co-founder Alexandr Wang, who was hired at significant cost earlier in 2026, according to Reuters. The model, named Muse Spark, was announced on April 8, 2026. The release marks a milestone for Meta's attempt to compete with OpenAI, Google, and Anthropic in frontier AI, areas where the company has acknowledged it has lagged. The unveiling follows Meta's public commitment to restructure its workforce and redirect investment aggressively toward AI. Reuters reported the announcement in the context of Meta's broader AI strategy and its costly superintelligence hiring push.",
-      "relevance_justification": "Meta's superintelligence team finally has a model to show, and this is the proof-of-investment moment after one of the most expensive executive hires in tech history. Watch this space: whether Muse Spark competes with GPT-5.5 and Claude will define Meta's AI credibility for 2026.",
-      "category": ["New Models and Core Tech"],
-      "industry": ["Technology and Software", "All Industries"],
-      "source_link": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/",
-      "relevance_score": 82,
+      "headline": "OpenAI: Enterprise Now Over 40% of Revenue; ChatGPT Hits 900 Million Weekly Users",
+      "summary": "In a note published April 8, 2026, OpenAI's Chief Revenue Officer Denise Dresser stated that enterprise now makes up more than 40% of OpenAI's revenue and is on track to reach parity with consumer by end of 2026. ChatGPT reached 900 million weekly users, reducing enterprise rollout friction as employees already know the product. OpenAI's APIs are processing more than 15 billion tokens per minute, driven by record engagement in agentic workflows. New enterprise customers cited include Goldman Sachs, Philips, and State Farm, alongside growing usage from Cursor, DoorDash, Thermo Fisher, and LY Corporation. OpenAI Frontier, its cross-company agent deployment platform, is being adopted by Oracle, State Farm, and Uber.",
+      "relevance_justification": "The experimentation is over signal from OpenAI's own CRO is a powerful data point for any LinkedIn post about AI adoption maturity. The 900M weekly users stat is a headline-stopper.",
+      "category": ["AI Adoption and Deployment", "AI Agents and Automation"],
+      "industry": ["All Industries", "Financial Services and Banking"],
+      "source_link": "https://openai.com/index/next-phase-of-enterprise-ai/",
+      "relevance_score": 88,
       "published_date": "2026-04-08"
     },
     {
-      "headline": "Snap Lays Off About 1,000 Employees Including 16% of Full-Time Staff in AI Efficiency Push",
-      "summary": "Snap announced it would lay off approximately 1,000 employees, including about 16% of its full-time staff, according to Reuters. The move came weeks after activist investor Irenic Capital Management pushed the Snapchat parent to optimize its portfolio and operations. The layoffs are part of a broader wave of corporate efficiency measures in which AI is cited as both a driver and enabler of leaner organizational structures. Reuters reported the Snap cuts alongside similar moves by other firms, describing the trend as Corporate America continuing job cuts in 2026 in an efficiency push. The announcement adds Snap to a growing list of tech and media companies including Meta, Microsoft, Oracle, and Atlassian that have linked 2026 workforce reductions explicitly to AI investment strategies.",
-      "relevance_justification": "Snap joining the AI-driven layoff wave is significant because it shows this is not just a hyperscaler story. Mid-size consumer tech companies are making the same trade-off: fewer people, more AI. The breadth of this trend is the real headline.",
-      "category": ["AI Layoffs and Workforce"],
-      "industry": ["Technology and Software", "Media and Entertainment"],
-      "source_link": "https://www.reuters.com/business/world-at-work/corporate-america-continues-job-cuts-2026-efficiency-push-2026-04-15/",
-      "relevance_score": 78,
-      "published_date": "2026-04-15"
-    },
-    {
-      "headline": "Norway $2.2 Trillion Sovereign Wealth Fund CEO Warns Companies Not to Use AI Solely for Job Cuts",
-      "summary": "The CEO of Norway's sovereign wealth fund, the world's largest at $2.2 trillion, publicly urged companies to use artificial intelligence to lift everybody up rather than simply as a tool for cutting jobs, Reuters reported on April 28, 2026. The warning came amid mounting concern that AI-driven workforce reductions are accelerating faster than workers can adapt or be retrained. As one of the world's largest institutional investors with stakes in thousands of global companies, the fund's CEO carries significant weight in shaping corporate governance expectations. The statement reflects a growing investor-class awareness that pure cost-cutting use of AI may generate short-term savings but risks long-term social and reputational backlash. The intervention is notable as one of the most prominent financial voices pushing back against the current trajectory of AI-linked mass layoffs.",
-      "relevance_justification": "When the world's largest sovereign wealth fund starts publicly telling companies to think twice about using AI purely to cut people, that is a governance signal worth paying attention to, and a powerful counter-narrative to share alongside the Meta and Microsoft layoff stories.",
-      "category": ["AI Safety and Ethics", "AI Layoffs and Workforce"],
-      "industry": ["Financial Services and Banking", "All Industries", "Government and Public Sector"],
-      "source_link": "https://www.reuters.com/business/retail-consumer/norway-wealth-fund-ceo-warns-just-using-ai-job-cuts-risks-backlash-2026-04-28/",
-      "relevance_score": 76,
-      "published_date": "2026-04-28"
+      "headline": "NVIDIA State of AI 2026: 88% of Companies Report Revenue Gains; Agentic AI Reaches 44% Deployment or Assessment",
+      "summary": "NVIDIA's 2026 State of AI report, published March 9, 2026 and based on over 3,200 responses, found 64% of organizations are actively using AI in their operations, with larger enterprises (76%) leading adoption. 88% of respondents said AI has had an impact on increasing annual revenue, with 30% reporting a significant increase of more than 10%. 87% said AI helped reduce annual costs. Agentic AI reached 44% deployment or assessment across surveyed industries, with telecommunications leading at 48% adoption. 86% of respondents said their AI budget will increase in 2026, with nearly 40% expecting a budget increase of 10% or more.",
+      "relevance_justification": "Hard numbers on AI ROI across industries. Exactly the data-driven content that performs on LinkedIn with a business audience. The agentic AI tipping point stat is particularly shareable.",
+      "category": ["AI Adoption and Deployment"],
+      "industry": ["All Industries", "Manufacturing and Industrial", "Retail and E-commerce", "Financial Services and Banking"],
+      "source_link": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+      "relevance_score": 82,
+      "published_date": "2026-03-09"
     }
   ]
 }
