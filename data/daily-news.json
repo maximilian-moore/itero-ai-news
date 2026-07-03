@@ -1,33 +1,33 @@
 {
   "overview": {
     "time_window": "last 48 hours",
-    "generated_at": "2026-07-02",
-    "total_items": 10,
+    "generated_at": "2026-07-03",
+    "total_items": 7,
     "categories": {
-      "New Models and Core Tech": 2,
-      "New Tools and Open Source": 1,
-      "AI in B2B SaaS": 1,
+      "New Models and Core Tech": 0,
+      "New Tools and Open Source": 0,
+      "AI in B2B SaaS": 0,
       "AI Adoption and Deployment": 0,
-      "AI Investments and Funding": 2,
-      "AI Layoffs and Workforce": 0,
-      "AI Partnerships and Deals": 2,
+      "AI Investments and Funding": 3,
+      "AI Layoffs and Workforce": 1,
+      "AI Partnerships and Deals": 0,
       "AI Regulation and Policy": 4,
-      "AI Safety and Ethics": 1,
-      "AI Agents and Automation": 1,
-      "AI Infrastructure and Chips": 3,
+      "AI Safety and Ethics": 2,
+      "AI Agents and Automation": 0,
+      "AI Infrastructure and Chips": 0,
       "Thought Leadership and Ideas": 0
     },
     "industries": {
-      "All Industries": 2,
+      "All Industries": 5,
       "Healthcare and Pharma": 0,
       "Chemical Industry": 0,
-      "Financial Services": 1,
+      "Financial Services": 3,
       "Manufacturing": 0,
       "Automotive": 0,
       "Retail": 0,
       "Energy": 0,
-      "Tech and Software": 4,
-      "Government and Public Sector": 4,
+      "Tech and Software": 3,
+      "Government and Public Sector": 3,
       "Legal": 0,
       "Logistics and Supply Chain": 0,
       "Defense and Aerospace": 0,
@@ -44,114 +44,125 @@
   },
   "news": [
     {
-      "headline": "South Korea unveils $880 billion decade-long chip and AI investment plan",
-      "summary": "South Korea's government announced a coordinated investment plan of at least 1,350 trillion won ($880 billion) over the next decade in semiconductors, AI data centers and robotics. President Lee Jae Myung framed the initiative around a triple axis of chips, physical AI and data centers. Samsung Electronics and SK Hynix, the world's two largest memory chipmakers, are central to the plan, with Samsung alone pledging more than $70 billion in 2026. The announcement was made Monday, June 29, in Seoul, flanked by government ministers and both companies' leadership. The plan is described as the largest single national semiconductor and AI investment announcement in history.",
-      "relevance_justification": "This is a country betting its industrial future on the assumption that AI demand for memory chips keeps compounding for a decade. If you run supply chain or procurement for anything touching semiconductors, this reshapes your negotiating leverage and lead times starting now, not in five years. Watch how fast US and EU responses follow, because nobody wants to be the region without a seat at this table.",
-      "category": ["AI Infrastructure and Chips", "AI Investments and Funding"],
-      "industry": ["Government and Public Sector", "Tech and Software"],
-      "source_link": "https://www.bloomberg.com/news/articles/2026-06-30/lee-s-880-billion-ai-bet-ties-legacy-to-south-korea-chip-boom",
-      "additional_sources": ["https://www.bbc.com/news/articles/c9q2pwzngjqo", "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive"],
-      "relevance_score": 90,
-      "published_date": "2026-06-30"
-    },
-    {
-      "headline": "Anthropic launches Claude Sonnet 5 as new default model for Free and Pro users",
-      "summary": "Anthropic released Claude Sonnet 5 on June 30, 2026, calling it its most agentic Sonnet-class model to date. The model became the default for Free and Pro plan users starting July 1 and is also available on Max, Team and Enterprise plans, Claude Code, Amazon Bedrock, Google Cloud Vertex AI and Microsoft Foundry. Introductory API pricing is $2 per million input tokens and $10 per million output tokens through August 31, 2026, after which it rises to $3 and $15. Anthropic says Sonnet 5 can independently plan multi-step tasks, use tools like browsers and terminals, and audit its own output, narrowing the performance gap with its flagship Opus line. The launch comes as Anthropic prepares for a potential IPO after confidentially filing a draft S-1 in June following a $65 billion round.",
-      "relevance_justification": "Anthropic just pushed near-flagship agentic capability into its free tier, which resets the baseline every competitor now has to beat for casual and business users alike. If your team benchmarks AI vendors on price-to-capability, this is the number to re-run your comparison against this week. The IPO subtext also means expect more aggressive pricing moves like this one as Anthropic builds its growth story.",
-      "category": ["New Models and Core Tech", "AI Agents and Automation"],
-      "industry": ["All Industries"],
-      "source_link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "additional_sources": ["https://www.macrumors.com/2026/06/30/anthropic-claude-sonnet-5/", "https://9to5mac.com/2026/06/30/anthropic-upgrades-claude-with-new-sonnet-5-model-details-here/"],
-      "relevance_score": 88,
-      "published_date": "2026-06-30"
-    },
-    {
-      "headline": "Meta building a cloud business to sell excess AI computing capacity",
-      "summary": "Meta Platforms is developing a cloud business to sell surplus artificial intelligence computing capacity to outside customers, Bloomberg News reported on July 1, citing people familiar with the matter. The planned service would let developers access AI models hosted on Meta's infrastructure, including its Muse Spark model, and pay for the compute needed to run them, similar to Amazon Bedrock. Meta is also reportedly considering selling raw compute capacity in the style of neocloud providers. CEO Mark Zuckerberg said in May that entering cloud computing was definitely on the table, noting companies approach Meta weekly seeking access to its models or spare capacity. Meta is projected to spend up to $145 billion on AI infrastructure in 2026, and its shares jumped more than 10% on the news.",
-      "relevance_justification": "Meta turning its AI infrastructure overspend into a revenue line is the clearest signal yet that even the biggest players are under pressure to show returns on capex, not just capability. If you are evaluating cloud AI vendors, a new well-capitalized entrant just showed up on your shortlist candidate list. Watch for pricing pressure across AWS, Azure and Google Cloud as this plays out over the next two quarters.",
-      "category": ["AI Infrastructure and Chips", "AI Partnerships and Deals"],
-      "industry": ["Tech and Software"],
-      "source_link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-      "additional_sources": ["https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/"],
-      "relevance_score": 85,
-      "published_date": "2026-07-01"
-    },
-    {
-      "headline": "UN independent panel warns unchecked AI progress could cause catastrophic harm",
-      "summary": "A United Nations independent scientific panel warned on July 1, in Geneva, that AI development is outpacing scientific understanding and government policy, with no guarantee the technology will avoid catastrophic harm. The panel's preliminary report, described as the first global independent assessment of AI's risks and opportunities, cited growing evidence of deceptive AI behavior as a key concern. Panel co-chair Yoshua Bengio said science cannot rule out catastrophic outcomes either from AI acting on its own or through malicious users. The report is intended to inform decision-making ahead of the UN's Global Dialogue on AI Governance, scheduled for July 6-7 in Geneva. It arrives just before the ITU's AI for Good Global Summit, also in Geneva, running July 7-10.",
-      "relevance_justification": "When a UN scientific panel co-chaired by Yoshua Bengio says science cannot guarantee AI will not cause catastrophic harm, that is not background noise, it is the opening argument for whatever global governance framework comes out of next week's Geneva dialogue. Enterprise leaders deploying agentic AI at scale should treat this as an early warning to tighten internal oversight before regulators do it for you. Boards should be asking their AI teams what deceptive behavior testing looks like right now, not after the framework lands.",
-      "category": ["AI Safety and Ethics", "AI Regulation and Policy"],
-      "industry": ["All Industries"],
-      "source_link": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
-      "additional_sources": ["https://www.channelnewsasia.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-6224606", "https://www.thehindu.com/sci-tech/technology/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns/article71171581.ece"],
-      "relevance_score": 84,
-      "published_date": "2026-07-01"
-    },
-    {
-      "headline": "UN and ITU launch AI for Good Global Commission co-chaired by Benioff and Kagame",
-      "summary": "The United Nations and the International Telecommunication Union launched the AI for Good Global Commission on July 1 to bring technology executives and heads of state into a shared AI governance forum. Salesforce CEO Marc Benioff and Rwandan President Paul Kagame will co-chair the commission, alongside members including ITU Secretary-General Doreen Bogdan-Martin and Estonian President Alar Karis. The commission's first meeting is scheduled for July 8 in Geneva, immediately following the UN's Global Dialogue on AI Governance on July 6-7. The group aims to advance responsible AI solutions and expand internet and AI access to the 2.2 billion people currently offline. The announcement was reported exclusively by Axios.",
-      "relevance_justification": "Putting a Fortune 500 CEO and a head of state in the same governance chair is a deliberate signal that AI policy is no longer just a government problem or just an industry problem. Enterprise leaders should watch what standards or disclosure norms come out of this commission, since Benioff's presence suggests enterprise SaaS vendors will have a direct line into whatever gets proposed. This is worth a calendar note for July 8, not a full strategy pivot yet.",
-      "category": ["AI Partnerships and Deals", "AI Regulation and Policy"],
-      "industry": ["Government and Public Sector", "All Industries"],
-      "source_link": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+      "headline": "OpenAI proposes giving US government a 5% stake in the company, FT reports",
+      "summary": "OpenAI CEO Sam Altman and other executives began preliminary talks with the US government about handing Washington a 5% equity stake in the company, the Financial Times reported on July 2, 2026. The proposal is part of a broader arrangement under which the government would hold 5% stakes in each of the leading US AI developers, potentially including Anthropic, Google and Meta. It is unclear whether those other companies would agree to the arrangement. The talks come as OpenAI has a confidential S-1 filed for an IPO and faces projected losses of $14 billion this year. Bloomberg confirmed the report citing the FT on July 2, 2026.",
+      "relevance_justification": "If this goes through, it rewrites the rulebook for how governments relate to frontier AI labs, turning Washington into a literal shareholder in the companies it is supposed to regulate. Enterprise buyers and policy teams should watch closely, since equity stakes could reshape how these labs handle national security asks, model release decisions, and competitive access.",
+      "category": [
+        "AI Regulation and Policy",
+        "AI Investments and Funding"
+      ],
+      "industry": [
+        "All Industries",
+        "Government and Public Sector"
+      ],
+      "source_link": "https://www.bloomberg.com/news/articles/2026-07-02/openai-proposes-giving-the-us-government-a-5-stake-ft-says",
       "additional_sources": [],
-      "relevance_score": 76,
+      "relevance_score": 88,
+      "published_date": "2026-07-02"
+    },
+    {
+      "headline": "Abu Dhabi's MGX closes $49 billion fund, one of the largest ever dedicated to AI",
+      "summary": "Abu Dhabi sovereign-backed investment firm MGX announced on July 1, 2026 that it closed its inaugural AI fund at $49 billion, exceeding its original $45 billion target. The fund drew commitments from institutional and private investors across the Gulf, North America, Asia and Europe. MGX, founded in 2024, has already invested in 14 companies and is a major backer of OpenAI, Anthropic and xAI. The firm plans to deploy capital across semiconductors, AI infrastructure and enabling technologies, with a longer-term goal of exceeding $100 billion in assets under management. AI companies have raised a record $416.6 billion so far in 2026, according to Dealroom.",
+      "relevance_justification": "This is Gulf capital cementing itself as a structural pillar of the AI buildout, not just a bit player writing checks. Anyone tracking who controls access to frontier AI compute and equity should note that MGX now sits inside nearly every major AI cap table, giving it outsized influence over how this industry consolidates.",
+      "category": [
+        "AI Investments and Funding"
+      ],
+      "industry": [
+        "All Industries",
+        "Financial Services"
+      ],
+      "source_link": "https://www.cnbc.com/2026/07/01/mgx-ai-fund-uae-49-billion.html",
+      "additional_sources": [
+        "https://www.bloomberg.com/news/articles/2026-07-01/uae-abu-dhabi-s-mgx-raises-49-billion-for-one-of-the-biggest-ai-funds-ever"
+      ],
+      "relevance_score": 82,
       "published_date": "2026-07-01"
     },
     {
-      "headline": "Portugal launches first open-source AI model, Amalia, in EU sovereignty push",
-      "summary": "Portugal unveiled its first open-source artificial intelligence model, Amalia, on July 1 in Lisbon, joining a broader European push for AI sovereignty and reduced reliance on US providers. Amalia is the first large language model built specifically for European Portuguese and was developed by a consortium of Portuguese universities and research institutions with EU recovery funds of 5.5 million euros. Prime Minister Luis Montenegro said at the launch that Europe's strategic autonomy is now tied to AI and that the model reduces dependence on foreign providers. The initiative follows similar sovereign AI efforts in France and Germany. Amalia is intended to support public agencies, businesses and researchers building secure local AI applications.",
-      "relevance_justification": "Every country launching its own sovereign model is a small data point, but the pattern across France, Germany and now Portugal shows Europe is done waiting on a unified EU model and is building national capacity in parallel. If you sell AI infrastructure or services into European public sector, sovereignty requirements are becoming a real procurement filter, not a talking point. Expect more of these announcements before the July Geneva governance sessions.",
-      "category": ["New Models and Core Tech", "AI Regulation and Policy"],
-      "industry": ["Government and Public Sector"],
-      "source_link": "https://www.reuters.com/business/finance/portugal-launches-first-open-source-ai-model-joining-europes-sovereignty-push-2026-07-01/",
-      "additional_sources": ["https://www.thestar.com.my/tech/tech-news/2026/07/02/portugal-launches-first-open-source-ai-model-joining-europe039s-sovereignty-push", "https://cybernews.com/ai-news/portugal-ai-model/"],
+      "headline": "UN scientific panel warns unchecked AI progress could cause catastrophic harm",
+      "summary": "The UN's Independent International Scientific Panel on Artificial Intelligence, co-chaired by Yoshua Bengio, released a preliminary report on July 1, 2026 warning that AI development is outpacing scientific understanding and government policy. The report states there is no guarantee that increasingly capable and sometimes deceptive AI systems will remain safe or controllable, and notes AI task complexity is doubling every four to seven months. It flags risks spanning mental health, deceptive behavior, misuse for fraud, cyberattacks and biological threats, alongside benefits like accelerated drug discovery. The findings will feed into the UN Global Dialogue on AI Governance in Geneva on July 6-7, 2026, with a fuller report due next year. UN Secretary-General Antonio Guterres said the world cannot govern what it cannot understand.",
+      "relevance_justification": "This is the closest thing to an official global scientific consensus on AI risk, and it lands right before governments sit down in Geneva to hash out governance rules. Business leaders should read this as a preview of the regulatory mood shaping the next round of AI compliance requirements worldwide.",
+      "category": [
+        "AI Safety and Ethics",
+        "AI Regulation and Policy"
+      ],
+      "industry": [
+        "All Industries",
+        "Government and Public Sector"
+      ],
+      "source_link": "https://www.reuters.com/business/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns-2026-07-01/",
+      "additional_sources": [],
+      "relevance_score": 80,
+      "published_date": "2026-07-01"
+    },
+    {
+      "headline": "AI-linked job cuts hit 28,000 a month in US tech and finance sectors",
+      "summary": "Bloomberg reported on July 1-2, 2026 that payrolls in the financial-activities and information sectors, where AI adoption has moved fastest, have declined by an average of 28,000 jobs per month in 2026 according to government data. Separately, Challenger, Gray & Christmas tracked nearly 102,000 AI-attributed job cuts so far this year, with technology alone accounting for over 139,000 cuts year-to-date, up 83% from 2025. Bloomberg Intelligence estimates banks could cut up to 200,000 jobs over the next several years as AI takes over back-office and risk-analysis work. Nearly a quarter of surveyed bank executives at firms including Citigroup, JPMorgan and Goldman Sachs expect staff reductions of 5-10% concentrated in data analysis and routine reporting roles. Some researchers caution part of the trend may be slower hiring and attrition rather than direct layoffs.",
+      "relevance_justification": "The debate over whether AI is really driving layoffs or just providing cover for cost cuts is starting to get real numbers behind it, and finance and tech are clearly the canaries here. If you run a team in either sector, this is the moment to get specific about where AI is actually replacing headcount versus where it is just a convenient talking point.",
+      "category": [
+        "AI Layoffs and Workforce"
+      ],
+      "industry": [
+        "Financial Services",
+        "Tech and Software"
+      ],
+      "source_link": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
+      "additional_sources": [
+        "https://www.bloomberg.com/news/newsletters/2026-07-02/ai-job-cuts-emerging-first-in-finance-and-tech"
+      ],
+      "relevance_score": 77,
+      "published_date": "2026-07-01"
+    },
+    {
+      "headline": "SoftBank renews talks for $10 billion loan against its OpenAI stake, sweetens terms",
+      "summary": "SoftBank Group has reopened negotiations with a lender consortium including Goldman Sachs, JPMorgan and Mizuho for a $10 billion margin loan backed by its stake in OpenAI, Reuters reported on July 1-2, 2026. Earlier attempts stalled because banks were wary of valuing and liquidating a stake in a private company. To unlock the deal, SoftBank is now offering a corporate guarantee that gives lenders direct recourse to SoftBank itself if the pledged OpenAI shares lose value. SoftBank holds roughly a 13% stake in OpenAI valued at an estimated $64.6 billion and has already committed more than $60 billion to OpenAI and related AI infrastructure. The loan would carry a two-year term with an option for a one-year extension.",
+      "relevance_justification": "Banks are still nervous about lending against paper wealth in private AI companies, and SoftBank having to personally guarantee the loan tells you how much scrutiny frontier AI valuations are under right now. Watch this as an early signal of how the credit markets will price AI-linked collateral as more of these companies stay private for longer.",
+      "category": [
+        "AI Investments and Funding"
+      ],
+      "industry": [
+        "Financial Services",
+        "Tech and Software"
+      ],
+      "source_link": "https://www.reuters.com/legal/transactional/softbank-renews-talks-10-billion-loan-against-openai-stake-adds-concessions-2026-07-01/",
+      "additional_sources": [],
       "relevance_score": 74,
       "published_date": "2026-07-01"
     },
     {
-      "headline": "GitHub Copilot's first usage-based billing cycle closes, sparking developer cost backlash",
-      "summary": "June 30, 2026 marked the close of GitHub Copilot's first full 30-day billing cycle since it shifted from flat-rate premium requests to token-based usage billing on June 1. Developers using agentic and repository-wide coding features reported bills increasing multiple times over, with some documented cases citing jumps from around $39 to several hundred dollars per month. GitHub introduced promotional credits from June through August 2026, giving Business plans an extra $30 per user per month and Enterprise plans an extra $70. GitHub's chief product officer had framed the shift in April as necessary because agentic Copilot workloads consume far more compute than earlier code-completion use. The backlash has driven visible discussion across developer communities about switching to cheaper alternatives like open-weight models.",
-      "relevance_justification": "This is the moment agentic AI coding tools stopped pretending they could be sold like a flat-rate gym membership, and every vendor selling AI seats to developers is watching how GitHub handles the fallout. If your engineering org budgets for Copilot, audit actual token usage now before the promotional credits run out in August. This is also a preview of the pricing conversation coming to every other AI tool that quietly went agentic under the hood.",
-      "category": ["AI in B2B SaaS", "New Tools and Open Source"],
-      "industry": ["Tech and Software"],
-      "source_link": "https://www.techtimes.com/articles/319340/20260629/github-copilot-billing-shock-confirmed-agentic-users-face-10x-cost-surge.htm",
-      "additional_sources": ["https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/"],
-      "relevance_score": 70,
+      "headline": "Anthropic restores Claude Fable 5 globally after US export controls lifted",
+      "summary": "Anthropic redeployed its most capable model, Claude Fable 5, globally on July 1, 2026, one day after the US Department of Commerce lifted export controls that had been imposed on June 12, 2026. The controls, triggered after Amazon researchers found a way to prompt Fable 5 into producing exploit code for a software vulnerability, had forced Anthropic to suspend both Fable 5 and its cybersecurity-focused sibling Mythos 5 for all users worldwide because the company could not verify user nationality in real time. Fable 5 is now available on the Claude Platform, Claude.ai, Claude Code and Claude Cowork, with AWS, Google Cloud and Microsoft Foundry access to follow. Anthropic is also proposing an industry-wide jailbreak severity scoring framework with Amazon, Microsoft, Google and other partners. The episode lasted about 19 days from suspension to full redeployment.",
+      "relevance_justification": "A frontier model getting yanked worldwide over a national security exploit, then reinstated after direct negotiation with the Commerce Department, shows just how tightly AI releases and export policy are now intertwined. Any enterprise building on Fable-class models needs a contingency plan for sudden government-driven access changes, because this will not be the last time it happens.",
+      "category": [
+        "AI Safety and Ethics",
+        "AI Regulation and Policy"
+      ],
+      "industry": [
+        "All Industries",
+        "Tech and Software"
+      ],
+      "source_link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "additional_sources": [
+        "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html"
+      ],
+      "relevance_score": 68,
       "published_date": "2026-06-30"
     },
     {
-      "headline": "Global AI-driven equity issuance surges to $729.4 billion in first half of 2026",
-      "summary": "Global equity capital markets issuance reached $729.4 billion in the first half of 2026, up more than 73% year-on-year, according to Dealogic's ECM Highlights 1H26 report released July 1. Technology accounted for roughly a third of all global issuance, with AI-linked deals identified as the defining force behind the surge. SpaceX's $86.2 billion IPO, whose equity story hinged heavily on AI infrastructure and its xAI business, drove much of the record volume in the Americas. EMEA issuance grew 29% year-on-year while Hong Kong and China led Asia-Pacific activity with over $105.2 billion, up 62% year-on-year. The report was published by PRNewswire on behalf of Dealogic, an ION service.",
-      "relevance_justification": "The capital markets are telling you plainly that AI infrastructure, not AI software, is where the biggest money is currently flowing, and SpaceX's IPO being counted as an AI infrastructure story rather than an aerospace one says everything about how investors are framing risk right now. If you are raising capital or benchmarking valuations this year, understand that AI-adjacent framing is doing real work in these numbers. Watch for OpenAI and Anthropic IPO filings later this year to test whether this issuance pace holds.",
-      "category": ["AI Investments and Funding"],
-      "industry": ["Financial Services", "Tech and Software"],
-      "source_link": "https://www.prnewswire.com/news-releases/ai-drives-global-ecm-surge-in-1h26-302815820.html",
-      "additional_sources": ["https://au.finance.yahoo.com/news/ai-drives-global-ecm-surge-130000953.html"],
-      "relevance_score": 68,
-      "published_date": "2026-07-01"
-    },
-    {
-      "headline": "Bipartisan AI bill gains momentum in Congress as CREATE AI Act push continues",
-      "summary": "Cognizant government affairs executives Neil Bjorkman and Betsy Brewer wrote in Fortune on July 1 urging Congress to pass the CREATE AI Act, describing it as Capitol Hill's most actionable pending AI legislation. The bill would expand researcher and startup access to federal computing resources and datasets without picking industry winners or imposing new regulatory burdens. It is backed by groups including the AI Policy Network, the Information Technology Industry Council, Cognizant, SeedAI and the Business Software Alliance. The push comes alongside the broader bipartisan Great American Artificial Intelligence Act discussion draft from Representatives Jay Obernolte and Lori Trahan, which addresses AI safety disclosures and state law preemption. Both efforts reflect a shift toward more concrete federal AI legislation ahead of the 2026 midterm elections.",
-      "relevance_justification": "A rare bipartisan AI bill with broad industry backing moving through Congress is worth attention precisely because so little AI legislation has cleared that bar this year. If your company depends on federal compute or research access, this is the bill to actually track rather than the louder but more contested state-preemption debates. Government affairs teams should be building relationships now, before any floor vote timeline solidifies.",
-      "category": ["AI Regulation and Policy"],
-      "industry": ["Government and Public Sector"],
-      "source_link": "https://fortune.com/2026/07/01/create-ai-act-bipartisan-deserves-to-pass-cognizant/",
+      "headline": "White House in advanced talks with AI labs on voluntary frontier model standards",
+      "summary": "The Financial Times reported on July 2, 2026 that the White House is in advanced discussions with major AI companies to finalize voluntary standards for releasing frontier models, with an announcement possible as soon as the week of July 7. Reuters confirmed on July 2 that Google is among the companies involved in the talks, particularly ahead of its planned Gemini 3.5 Pro coding model release in July. The framework Anthropic agreed to after the Fable 5 export-control episode is expected to serve as the template other frontier labs will be asked to adopt. The move follows a June 2, 2026 executive order from the Trump administration promoting AI innovation while addressing cybersecurity risk. Details of the specific standards have not been finalized publicly.",
+      "relevance_justification": "A voluntary standards framework agreed behind closed doors between the White House and the biggest labs is effectively industry self-regulation with government sign-off, and that shapes what every enterprise using these models will eventually have to comply with. Worth tracking closely if your company depends on frontier model access, since the terms could show up in vendor contracts fast.",
+      "category": [
+        "AI Regulation and Policy"
+      ],
+      "industry": [
+        "All Industries",
+        "Government and Public Sector"
+      ],
+      "source_link": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
       "additional_sources": [],
       "relevance_score": 65,
-      "published_date": "2026-07-01"
-    },
-    {
-      "headline": "Applied Digital brings second AI data center building online at Polaris Forge 1",
-      "summary": "Applied Digital announced on July 1 that it achieved Ready for Service status for Phase 1 of Building 2 at its Polaris Forge 1 campus, delivering 75 megawatts of operational AI computing capacity to its customer on schedule. The milestone brings total live capacity at the campus to 175 megawatts. The company describes its execution approach as an AI Factory franchise model, a repeatable framework pairing centralized expertise with dedicated site-level design, construction and operations teams. Applied Digital designs, builds and operates high-performance data centers for AI, cloud, networking and blockchain workloads. The announcement was made via press release from Dallas, Texas.",
-      "relevance_justification": "On-time delivery of AI data center capacity is unglamorous but it is exactly the kind of execution proof point that separates infrastructure players who can actually keep pace with AI demand from those still in the announcement phase. If you are evaluating colocation or compute partners, delivery track record like this matters more than press release size. Expect more neocloud operators to lean on on-schedule messaging as capital scrutiny of AI infrastructure spending increases.",
-      "category": ["AI Infrastructure and Chips"],
-      "industry": ["Tech and Software"],
-      "source_link": "https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1",
-      "additional_sources": [],
-      "relevance_score": 60,
-      "published_date": "2026-07-01"
+      "published_date": "2026-07-02"
     }
   ]
 }
